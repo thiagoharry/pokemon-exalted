@@ -2,6 +2,10 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
+#if defined(__linux__)
+#include <sys/time.h>
+#include <sys/random.h>
+#endif
 #include "random.h"
 
 static bool test;
@@ -10618,7 +10622,11 @@ int main(int argc, char **argv){
   struct pokemon *p1, *p2, *order[2];
   {
     uint64_t buffer[4];
+#if defined(__linux__)
+    getrandom(buffer, 4 * 8, 0);
+#else
     arc4random_buf(buffer, 4 * 8);
+#endif
     RNG = _Wcreate_rng(malloc, 4, buffer);
   }
   if(argc == 2  && atoi(argv[1]) == 0)

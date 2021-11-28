@@ -1,3 +1,3 @@
 all:
-	$(CC) -DW_RNG_CHACHA20 fight.c random.c -o pokemon-exalted
+	$(CC) -DW_RNG_CHACHA20 src/fight.c src/random.c -o pokemon-exalted
 
