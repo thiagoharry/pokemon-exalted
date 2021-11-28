@@ -13,7 +13,7 @@ names=(" " "Bulbasaur" "Ivysaur" "Venusaur" "Charmander" "Charmeleon" "Charizard
        "Dugtrio" "Meowth" "Persian" "Psyduck" "Golduck" "Mankey" "Primeape"
        "Growlithe" "Arcanine" "Poliwag" "Poliwhirl" "Poliwrath" "Abra"
        "Kadabra" "Alakazam" "Machop" "Machoke" "Machamp" "Bellsprout"
-       "Weepinbell" "Victreebel" "Tentacool" "Tentacruel" "Geodude" ""
+       "Weepinbell" "Victreebel" "Tentacool" "Tentacruel" "Geodude"
        "Graveler" "Golem" "Ponyta" "Rapidash" "Slowpoke" "Slowbro"
        "Magnemite" "Magneton" "Farfetch'd" "Doduo" "Dodrio" "Seel" "Dewgong"
        "Grimer" "Muk" "Shellder" "Cloyster" "Gastly" "Haunter" "Gengar"
@@ -40,12 +40,30 @@ echo
 for (( i=1; i <= 151; i++ )); do
     for (( j=0; j <= 151; j++ )); do
 	if [ ${j} -eq 0 ]; then
-	    echo -n " ![${names[$i]}](https://github.com/thiagoharry/pokemon-exalted/blob/main/images/${i}.png) |"
+	    echo -n " ![${names[$i]}](https://github.com/thiagoharry/pokemon-exalted/blob/main/images/${i}.png) |"	    
+	elif [ ${j} -eq ${i} ]; then
+	    echo " | "
 	else
-	    echo -n " - |"
+	    # Fazer o teste aqui
+	    echo "" > result.log
+	    for (( t=0; t < 100; t++ )); do
+		./pokemon-exalted ${i} ${j} > /dev/null 2>> result.log
+	    done
+	    >&2 echo "${names[${i}]} x ${names[${j}]}"
+	    vitoria=$(grep -c "${names[$i]}" result.log)
+	    empate=$(grep -c EMPATE result.log)
+	    derrota=$(grep -c "${names[$j]}" result.log)
+	    vermelho=$((2 * ${derrota} + ${empate}))
+	    verde=$((2*${derrota} + ${empate}))
+	    total=$((2*${vitoria} + 2*${derrota} + ${empate}))
+	    vermelho=$((255*${vermelho}/${total}))
+	    verde=$((255*${verde}/${total}))
+	    vermelho=$(printf "%.2X\n" ${vermelho})
+	    verde=$(printf "%.2X\n" ${verde})
+	    echo -n " ![${vitoria} vitórias, ${empate} empates, ${derrota} derrotas](https://via.placeholder.com/15/${vermelho}${verde}00/000000?text=+) |"
 	fi
 	if [ ${j} -eq 151 ]; then
-	    echo
+	    echo  ""
 	fi
     done
 done

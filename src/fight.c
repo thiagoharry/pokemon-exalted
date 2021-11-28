@@ -5781,7 +5781,7 @@ struct pokemon *new_cubone(int team){
 
 struct pokemon *new_marowak(int team){
   struct pokemon *p = new_base_pokemon(team);
-  strcpy(p -> name, "Cubone");
+  strcpy(p -> name, "Marowak");
   strcpy(p -> desc, "Pokémon Portador do Osso");
   p -> shape = BIPEDAL;
   p -> vitality = 6; //60
@@ -7169,7 +7169,7 @@ struct pokemon *new_omanyte(int team){
 
 struct pokemon *new_omastar(int team){
   struct pokemon *p = new_base_pokemon(team);
-  strcpy(p -> name, "Omaster");
+  strcpy(p -> name, "Omastar");
   strcpy(p -> desc, "Pokémon Espiral");
   p -> shape = OCTOPUS;
   p -> vitality = 7; //70
