@@ -83,6 +83,12 @@ echo -n "| "
 for (( i=1; i <= 151; i++ )); do
     echo -n "![${names[$i]}](https://archives.bulbagrden.net/media/upload/${url[$i]}) |"
 done
+echo
+echo -n "| "
+for (( i=1; i <= 151; i++ )); do
+    echo -n "--- |"
+done
+echo
 for (( i=1; i <= 151; i++ )); do
     for (( j=0; j <= 151; j++ )); do
 	if [ ${j} -eq 0 ]; then
