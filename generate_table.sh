@@ -33,7 +33,7 @@ for (( i=1; i <= 151; i++ )); do
 done
 echo
 echo -n "| "
-for (( i=1; i <= 151; i++ )); do
+for (( i=0; i <= 151; i++ )); do
     echo -n "--- |"
 done
 echo
