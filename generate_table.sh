@@ -40,9 +40,9 @@ echo
 for (( i=1; i <= 151; i++ )); do
     for (( j=0; j <= 151; j++ )); do
 	if [ ${j} -eq 0 ]; then
-	    echo -n "![${names[$i]}](https://github.com/thiagoharry/pokemon-exalted/blob/main/images/${i}.png) |"
+	    echo -n " ![${names[$i]}](https://github.com/thiagoharry/pokemon-exalted/blob/main/images/${i}.png) |"
 	else
-	    echo -n " |"
+	    echo -n " - |"
 	fi
 	if [ ${j} -eq 151 ]; then
 	    echo
