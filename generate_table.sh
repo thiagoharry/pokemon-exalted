@@ -27,22 +27,28 @@ names=(" " "Bulbasaur" "Ivysaur" "Venusaur" "Charmander" "Charmeleon" "Charizard
        "Aerodactyl" "Snorlax" "Articuno"  "Zapdos" "Moltres" "Dratini"
        "Dragonair" "Dragonite" "Mewtwo" "Mew")
 
-echo -n "| "
+#echo -n "| "
+echo "<table><tr>"
 for (( i=1; i <= 151; i++ )); do
-    echo -n "![${names[$i]}](https://github.com/thiagoharry/pokemon-exalted/blob/main/images/${i}.png) |"
+    #echo -n "![${names[$i]}](https://github.com/thiagoharry/pokemon-exalted/blob/main/images/${i}.png) |"
+    echo "<td><img alt=\"${names[$i]}\" src=\"https://github.com/thiagoharry/pokemon-exalted/blob/main/images/${i}.png\"/></td>"
 done
-echo
-echo -n "| "
-for (( i=0; i <= 151; i++ )); do
-    echo -n "--- |"
-done
-echo
+#echo
+#echo -n "| "
+echo "</tr>"
+#for (( i=0; i <= 151; i++ )); do
+#    echo -n "--- |"
+#done
+#echo
 for (( i=1; i <= 151; i++ )); do
+    echo "<tr>"
     for (( j=0; j <= 151; j++ )); do
 	if [ ${j} -eq 0 ]; then
-	    echo -n " ![${names[$i]}](https://github.com/thiagoharry/pokemon-exalted/blob/main/images/${i}.png) |"	    
+	    #echo -n " ![${names[$i]}](https://github.com/thiagoharry/pokemon-exalted/blob/main/images/${i}.png) |"
+	    echo "<td><img alt=\"${names[$i]}\" src=\"https://github.com/thiagoharry/pokemon-exalted/blob/main/images/${i}.png\"/></td>" 
 	elif [ ${j} -eq ${i} ]; then
-	    echo " | "
+	    #echo " | "
+	    echo "<td></td>"
 	else
 	    # Fazer o teste aqui
 	    echo "" > result.log
@@ -60,11 +66,11 @@ for (( i=1; i <= 151; i++ )); do
 	    verde=$((255*${verde}/${total}))
 	    vermelho=$(printf "%.2X\n" ${vermelho})
 	    verde=$(printf "%.2X\n" ${verde})
-	    echo -n " ![${vitoria} vitórias, ${empate} empates, ${derrota} derrotas](https://via.placeholder.com/15/${vermelho}${verde}00/000000?text=+) |"
-	fi
-	if [ ${j} -eq 151 ]; then
-	    echo  ""
+	    #echo -n " ![${vitoria} vitórias, ${empate} empates, ${derrota} derrotas](https://via.placeholder.com/15/${vermelho}${verde}00/000000?text=+) |"
+	    echo "<td><img alt=\"${vitoria} vitórias, ${empate} empates, ${derrota} derrotas\" src=\"https://via.placeholder.com/15/${vermelho}${verde}00/000000?text=+\"/></td>"
 	fi
     done
+    echo "</tr>"
 done
+echo "</table>"
     
