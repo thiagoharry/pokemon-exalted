@@ -1,161 +1,162 @@
 # pokemon-exalted
 Pokémon in Exalted
 
-<table><tr>
-<td><img alt="Bulbasaur" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/1.png"/></td>
-<td><img alt="Ivysaur" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/2.png"/></td>
-<td><img alt="Venusaur" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/3.png"/></td>
-<td><img alt="Charmander" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/4.png"/></td>
-<td><img alt="Charmeleon" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/5.png"/></td>
-<td><img alt="Charizard" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/6.png"/></td>
-<td><img alt="Squirtle" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/7.png"/></td>
-<td><img alt="Wartortle" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/8.png"/></td>
-<td><img alt="Blastoise" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/9.png"/></td>
-<td><img alt="Caterpie" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/10.png"/></td>
-<td><img alt="Metapod" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/11.png"/></td>
-<td><img alt="Butterfree" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/12.png"/></td>
-<td><img alt="Weedle" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/13.png"/></td>
-<td><img alt="Kakuna" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/14.png"/></td>
-<td><img alt="Beedrill" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/15.png"/></td>
-<td><img alt="Pidgey" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/16.png"/></td>
-<td><img alt="Pidgeotto" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/17.png"/></td>
-<td><img alt="Pidgeot" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/18.png"/></td>
-<td><img alt="Rattata" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/19.png"/></td>
-<td><img alt="Raticate" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/20.png"/></td>
-<td><img alt="Spearow" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/21.png"/></td>
-<td><img alt="Fearow" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/22.png"/></td>
-<td><img alt="Ekans" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/23.png"/></td>
-<td><img alt="Arbok" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/24.png"/></td>
-<td><img alt="Pikachu" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/25.png"/></td>
-<td><img alt="Raichu" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/26.png"/></td>
-<td><img alt="Sandshrew" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/27.png"/></td>
-<td><img alt="Sandslash" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/28.png"/></td>
-<td><img alt="Nidoran♀" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/29.png"/></td>
-<td><img alt="Nidorina" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/30.png"/></td>
-<td><img alt="Nidoqueen" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/31.png"/></td>
-<td><img alt="Nidoran♂" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/32.png"/></td>
-<td><img alt="Nidorino" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/33.png"/></td>
-<td><img alt="Nidoking" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/34.png"/></td>
-<td><img alt="Clefairy" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/35.png"/></td>
-<td><img alt="Clefable" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/36.png"/></td>
-<td><img alt="Vulpix" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/37.png"/></td>
-<td><img alt="Ninetales" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/38.png"/></td>
-<td><img alt="Jigglypuff" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/39.png"/></td>
-<td><img alt="Wigglytuff" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/40.png"/></td>
-<td><img alt="Zubat" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/41.png"/></td>
-<td><img alt="Golbat" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/42.png"/></td>
-<td><img alt="Oddish" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/43.png"/></td>
-<td><img alt="Gloom" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/44.png"/></td>
-<td><img alt="Vileplume" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/45.png"/></td>
-<td><img alt="Paras" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/46.png"/></td>
-<td><img alt="Parasect" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/47.png"/></td>
-<td><img alt="Venonat" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/48.png"/></td>
-<td><img alt="Venomoth" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/49.png"/></td>
-<td><img alt="Digllet" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/50.png"/></td>
-<td><img alt="Dugtrio" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/51.png"/></td>
-<td><img alt="Meowth" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/52.png"/></td>
-<td><img alt="Persian" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/53.png"/></td>
-<td><img alt="Psyduck" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/54.png"/></td>
-<td><img alt="Golduck" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/55.png"/></td>
-<td><img alt="Mankey" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/56.png"/></td>
-<td><img alt="Primeape" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/57.png"/></td>
-<td><img alt="Growlithe" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/58.png"/></td>
-<td><img alt="Arcanine" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/59.png"/></td>
-<td><img alt="Poliwag" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/60.png"/></td>
-<td><img alt="Poliwhirl" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/61.png"/></td>
-<td><img alt="Poliwrath" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/62.png"/></td>
-<td><img alt="Abra" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/63.png"/></td>
-<td><img alt="Kadabra" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/64.png"/></td>
-<td><img alt="Alakazam" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/65.png"/></td>
-<td><img alt="Machop" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/66.png"/></td>
-<td><img alt="Machoke" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/67.png"/></td>
-<td><img alt="Machamp" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/68.png"/></td>
-<td><img alt="Bellsprout" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/69.png"/></td>
-<td><img alt="Weepinbell" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/70.png"/></td>
-<td><img alt="Victreebel" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/71.png"/></td>
-<td><img alt="Tentacool" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/72.png"/></td>
-<td><img alt="Tentacruel" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/73.png"/></td>
-<td><img alt="Geodude" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/74.png"/></td>
-<td><img alt="Graveler" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/75.png"/></td>
-<td><img alt="Golem" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/76.png"/></td>
-<td><img alt="Ponyta" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/77.png"/></td>
-<td><img alt="Rapidash" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/78.png"/></td>
-<td><img alt="Slowpoke" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/79.png"/></td>
-<td><img alt="Slowbro" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/80.png"/></td>
-<td><img alt="Magnemite" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/81.png"/></td>
-<td><img alt="Magneton" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/82.png"/></td>
-<td><img alt="Farfetch'd" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/83.png"/></td>
-<td><img alt="Doduo" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/84.png"/></td>
-<td><img alt="Dodrio" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/85.png"/></td>
-<td><img alt="Seel" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/86.png"/></td>
-<td><img alt="Dewgong" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/87.png"/></td>
-<td><img alt="Grimer" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/88.png"/></td>
-<td><img alt="Muk" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/89.png"/></td>
-<td><img alt="Shellder" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/90.png"/></td>
-<td><img alt="Cloyster" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/91.png"/></td>
-<td><img alt="Gastly" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/92.png"/></td>
-<td><img alt="Haunter" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/93.png"/></td>
-<td><img alt="Gengar" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/94.png"/></td>
-<td><img alt="Onix" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/95.png"/></td>
-<td><img alt="Drowzee" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/96.png"/></td>
-<td><img alt="Hypno" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/97.png"/></td>
-<td><img alt="Krabby" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/98.png"/></td>
-<td><img alt="Kingler" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/99.png"/></td>
-<td><img alt="Voltorb" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/100.png"/></td>
-<td><img alt="Electrode" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/101.png"/></td>
-<td><img alt="Exeggcute" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/102.png"/></td>
-<td><img alt="Exeggutor" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/103.png"/></td>
-<td><img alt="Cubone" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/104.png"/></td>
-<td><img alt="Marowak" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/105.png"/></td>
-<td><img alt="Hitmonlee" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/106.png"/></td>
-<td><img alt="Hitmonchan" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/107.png"/></td>
-<td><img alt="Lickitung" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/108.png"/></td>
-<td><img alt="Koffing" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/109.png"/></td>
-<td><img alt="Weezing" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/110.png"/></td>
-<td><img alt="Rhyhorn" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/111.png"/></td>
-<td><img alt="Rhydon" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/112.png"/></td>
-<td><img alt="Chansey" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/113.png"/></td>
-<td><img alt="Tangela" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/114.png"/></td>
-<td><img alt="Kangaskhan" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/115.png"/></td>
-<td><img alt="Horsea" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/116.png"/></td>
-<td><img alt="Seadra" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/117.png"/></td>
-<td><img alt="Goldeen" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/118.png"/></td>
-<td><img alt="Seaking" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/119.png"/></td>
-<td><img alt="Staryu" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/120.png"/></td>
-<td><img alt="Starmie" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/121.png"/></td>
-<td><img alt="Mr. Mime" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/122.png"/></td>
-<td><img alt="Scyther" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/123.png"/></td>
-<td><img alt="Jynx" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/124.png"/></td>
-<td><img alt="Electabuzz" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/125.png"/></td>
-<td><img alt="Magmar" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/126.png"/></td>
-<td><img alt="Pinsir" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/127.png"/></td>
-<td><img alt="Tauros" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/128.png"/></td>
-<td><img alt="Magikarp" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/129.png"/></td>
-<td><img alt="Gyarados" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/130.png"/></td>
-<td><img alt="Lapras" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/131.png"/></td>
-<td><img alt="Ditto" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/132.png"/></td>
-<td><img alt="Eevee" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/133.png"/></td>
-<td><img alt="Vaporeon" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/134.png"/></td>
-<td><img alt="Jolteon" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/135.png"/></td>
-<td><img alt="Flareon" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/136.png"/></td>
-<td><img alt="Porygon" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/137.png"/></td>
-<td><img alt="Omanyte" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/138.png"/></td>
-<td><img alt="Omastar" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/139.png"/></td>
-<td><img alt="Kabuto" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/140.png"/></td>
-<td><img alt="Kabutops" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/141.png"/></td>
-<td><img alt="Aerodactyl" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/142.png"/></td>
-<td><img alt="Snorlax" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/143.png"/></td>
-<td><img alt="Articuno" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/144.png"/></td>
-<td><img alt="Zapdos" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/145.png"/></td>
-<td><img alt="Moltres" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/146.png"/></td>
-<td><img alt="Dratini" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/147.png"/></td>
-<td><img alt="Dragonair" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/148.png"/></td>
-<td><img alt="Dragonite" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/149.png"/></td>
-<td><img alt="Mewtwo" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/150.png"/></td>
-<td><img alt="Mew" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/151.png"/></td>
+  <table><tr>
+      <td></td>
+<td><img alt="Bulbasaur" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/1.png"/></td>
+<td><img alt="Ivysaur" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/2.png"/></td>
+<td><img alt="Venusaur" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/3.png"/></td>
+<td><img alt="Charmander" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/4.png"/></td>
+<td><img alt="Charmeleon" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/5.png"/></td>
+<td><img alt="Charizard" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/6.png"/></td>
+<td><img alt="Squirtle" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/7.png"/></td>
+<td><img alt="Wartortle" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/8.png"/></td>
+<td><img alt="Blastoise" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/9.png"/></td>
+<td><img alt="Caterpie" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/10.png"/></td>
+<td><img alt="Metapod" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/11.png"/></td>
+<td><img alt="Butterfree" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/12.png"/></td>
+<td><img alt="Weedle" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/13.png"/></td>
+<td><img alt="Kakuna" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/14.png"/></td>
+<td><img alt="Beedrill" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/15.png"/></td>
+<td><img alt="Pidgey" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/16.png"/></td>
+<td><img alt="Pidgeotto" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/17.png"/></td>
+<td><img alt="Pidgeot" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/18.png"/></td>
+<td><img alt="Rattata" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/19.png"/></td>
+<td><img alt="Raticate" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/20.png"/></td>
+<td><img alt="Spearow" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/21.png"/></td>
+<td><img alt="Fearow" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/22.png"/></td>
+<td><img alt="Ekans" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/23.png"/></td>
+<td><img alt="Arbok" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/24.png"/></td>
+<td><img alt="Pikachu" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/25.png"/></td>
+<td><img alt="Raichu" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/26.png"/></td>
+<td><img alt="Sandshrew" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/27.png"/></td>
+<td><img alt="Sandslash" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/28.png"/></td>
+<td><img alt="Nidoran♀" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/29.png"/></td>
+<td><img alt="Nidorina" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/30.png"/></td>
+<td><img alt="Nidoqueen" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/31.png"/></td>
+<td><img alt="Nidoran♂" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/32.png"/></td>
+<td><img alt="Nidorino" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/33.png"/></td>
+<td><img alt="Nidoking" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/34.png"/></td>
+<td><img alt="Clefairy" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/35.png"/></td>
+<td><img alt="Clefable" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/36.png"/></td>
+<td><img alt="Vulpix" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/37.png"/></td>
+<td><img alt="Ninetales" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/38.png"/></td>
+<td><img alt="Jigglypuff" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/39.png"/></td>
+<td><img alt="Wigglytuff" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/40.png"/></td>
+<td><img alt="Zubat" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/41.png"/></td>
+<td><img alt="Golbat" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/42.png"/></td>
+<td><img alt="Oddish" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/43.png"/></td>
+<td><img alt="Gloom" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/44.png"/></td>
+<td><img alt="Vileplume" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/45.png"/></td>
+<td><img alt="Paras" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/46.png"/></td>
+<td><img alt="Parasect" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/47.png"/></td>
+<td><img alt="Venonat" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/48.png"/></td>
+<td><img alt="Venomoth" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/49.png"/></td>
+<td><img alt="Digllet" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/50.png"/></td>
+<td><img alt="Dugtrio" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/51.png"/></td>
+<td><img alt="Meowth" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/52.png"/></td>
+<td><img alt="Persian" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/53.png"/></td>
+<td><img alt="Psyduck" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/54.png"/></td>
+<td><img alt="Golduck" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/55.png"/></td>
+<td><img alt="Mankey" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/56.png"/></td>
+<td><img alt="Primeape" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/57.png"/></td>
+<td><img alt="Growlithe" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/58.png"/></td>
+<td><img alt="Arcanine" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/59.png"/></td>
+<td><img alt="Poliwag" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/60.png"/></td>
+<td><img alt="Poliwhirl" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/61.png"/></td>
+<td><img alt="Poliwrath" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/62.png"/></td>
+<td><img alt="Abra" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/63.png"/></td>
+<td><img alt="Kadabra" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/64.png"/></td>
+<td><img alt="Alakazam" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/65.png"/></td>
+<td><img alt="Machop" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/66.png"/></td>
+<td><img alt="Machoke" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/67.png"/></td>
+<td><img alt="Machamp" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/68.png"/></td>
+<td><img alt="Bellsprout" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/69.png"/></td>
+<td><img alt="Weepinbell" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/70.png"/></td>
+<td><img alt="Victreebel" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/71.png"/></td>
+<td><img alt="Tentacool" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/72.png"/></td>
+<td><img alt="Tentacruel" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/73.png"/></td>
+<td><img alt="Geodude" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/74.png"/></td>
+<td><img alt="Graveler" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/75.png"/></td>
+<td><img alt="Golem" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/76.png"/></td>
+<td><img alt="Ponyta" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/77.png"/></td>
+<td><img alt="Rapidash" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/78.png"/></td>
+<td><img alt="Slowpoke" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/79.png"/></td>
+<td><img alt="Slowbro" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/80.png"/></td>
+<td><img alt="Magnemite" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/81.png"/></td>
+<td><img alt="Magneton" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/82.png"/></td>
+<td><img alt="Farfetch'd" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/83.png"/></td>
+<td><img alt="Doduo" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/84.png"/></td>
+<td><img alt="Dodrio" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/85.png"/></td>
+<td><img alt="Seel" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/86.png"/></td>
+<td><img alt="Dewgong" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/87.png"/></td>
+<td><img alt="Grimer" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/88.png"/></td>
+<td><img alt="Muk" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/89.png"/></td>
+<td><img alt="Shellder" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/90.png"/></td>
+<td><img alt="Cloyster" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/91.png"/></td>
+<td><img alt="Gastly" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/92.png"/></td>
+<td><img alt="Haunter" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/93.png"/></td>
+<td><img alt="Gengar" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/94.png"/></td>
+<td><img alt="Onix" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/95.png"/></td>
+<td><img alt="Drowzee" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/96.png"/></td>
+<td><img alt="Hypno" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/97.png"/></td>
+<td><img alt="Krabby" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/98.png"/></td>
+<td><img alt="Kingler" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/99.png"/></td>
+<td><img alt="Voltorb" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/100.png"/></td>
+<td><img alt="Electrode" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/101.png"/></td>
+<td><img alt="Exeggcute" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/102.png"/></td>
+<td><img alt="Exeggutor" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/103.png"/></td>
+<td><img alt="Cubone" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/104.png"/></td>
+<td><img alt="Marowak" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/105.png"/></td>
+<td><img alt="Hitmonlee" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/106.png"/></td>
+<td><img alt="Hitmonchan" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/107.png"/></td>
+<td><img alt="Lickitung" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/108.png"/></td>
+<td><img alt="Koffing" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/109.png"/></td>
+<td><img alt="Weezing" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/110.png"/></td>
+<td><img alt="Rhyhorn" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/111.png"/></td>
+<td><img alt="Rhydon" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/112.png"/></td>
+<td><img alt="Chansey" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/113.png"/></td>
+<td><img alt="Tangela" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/114.png"/></td>
+<td><img alt="Kangaskhan" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/115.png"/></td>
+<td><img alt="Horsea" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/116.png"/></td>
+<td><img alt="Seadra" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/117.png"/></td>
+<td><img alt="Goldeen" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/118.png"/></td>
+<td><img alt="Seaking" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/119.png"/></td>
+<td><img alt="Staryu" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/120.png"/></td>
+<td><img alt="Starmie" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/121.png"/></td>
+<td><img alt="Mr. Mime" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/122.png"/></td>
+<td><img alt="Scyther" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/123.png"/></td>
+<td><img alt="Jynx" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/124.png"/></td>
+<td><img alt="Electabuzz" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/125.png"/></td>
+<td><img alt="Magmar" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/126.png"/></td>
+<td><img alt="Pinsir" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/127.png"/></td>
+<td><img alt="Tauros" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/128.png"/></td>
+<td><img alt="Magikarp" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/129.png"/></td>
+<td><img alt="Gyarados" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/130.png"/></td>
+<td><img alt="Lapras" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/131.png"/></td>
+<td><img alt="Ditto" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/132.png"/></td>
+<td><img alt="Eevee" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/133.png"/></td>
+<td><img alt="Vaporeon" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/134.png"/></td>
+<td><img alt="Jolteon" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/135.png"/></td>
+<td><img alt="Flareon" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/136.png"/></td>
+<td><img alt="Porygon" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/137.png"/></td>
+<td><img alt="Omanyte" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/138.png"/></td>
+<td><img alt="Omastar" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/139.png"/></td>
+<td><img alt="Kabuto" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/140.png"/></td>
+<td><img alt="Kabutops" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/141.png"/></td>
+<td><img alt="Aerodactyl" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/142.png"/></td>
+<td><img alt="Snorlax" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/143.png"/></td>
+<td><img alt="Articuno" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/144.png"/></td>
+<td><img alt="Zapdos" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/145.png"/></td>
+<td><img alt="Moltres" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/146.png"/></td>
+<td><img alt="Dratini" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/147.png"/></td>
+<td><img alt="Dragonair" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/148.png"/></td>
+<td><img alt="Dragonite" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/149.png"/></td>
+<td><img alt="Mewtwo" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/150.png"/></td>
+<td><img alt="Mew" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/151.png"/></td>
 </tr>
 <tr>
-<td><img alt="Bulbasaur" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/1.png"/></td>
+<td><img alt="Bulbasaur" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/1.png"/></td>
 <td></td>
 <td><img alt="23 vitórias, 0 empates, 77 derrotas" src="https://via.placeholder.com/15/C4C400/000000?text=+"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
@@ -309,7 +310,7 @@ Pokémon in Exalted
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Ivysaur" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/2.png"/></td>
+<td><img alt="Ivysaur" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/2.png"/></td>
 <td><img alt="81 vitórias, 0 empates, 19 derrotas" src="https://via.placeholder.com/15/303000/000000?text=+"/></td>
 <td></td>
 <td><img alt="7 vitórias, 0 empates, 93 derrotas" src="https://via.placeholder.com/15/EDED00/000000?text=+"/></td>
@@ -463,7 +464,7 @@ Pokémon in Exalted
 <td><img alt="14 vitórias, 0 empates, 86 derrotas" src="https://via.placeholder.com/15/DBDB00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Venusaur" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/3.png"/></td>
+<td><img alt="Venusaur" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/3.png"/></td>
 <td><img alt="100 vitórias, 0 empates, 0 derrotas" src="https://via.placeholder.com/15/000000/000000?text=+"/></td>
 <td><img alt="98 vitórias, 0 empates, 2 derrotas" src="https://via.placeholder.com/15/050500/000000?text=+"/></td>
 <td></td>
@@ -617,7 +618,7 @@ Pokémon in Exalted
 <td><img alt="56 vitórias, 0 empates, 44 derrotas" src="https://via.placeholder.com/15/707000/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Charmander" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/4.png"/></td>
+<td><img alt="Charmander" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/4.png"/></td>
 <td><img alt="56 vitórias, 0 empates, 44 derrotas" src="https://via.placeholder.com/15/707000/000000?text=+"/></td>
 <td><img alt="35 vitórias, 0 empates, 65 derrotas" src="https://via.placeholder.com/15/A5A500/000000?text=+"/></td>
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
@@ -771,7 +772,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Charmeleon" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/5.png"/></td>
+<td><img alt="Charmeleon" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/5.png"/></td>
 <td><img alt="90 vitórias, 0 empates, 10 derrotas" src="https://via.placeholder.com/15/191900/000000?text=+"/></td>
 <td><img alt="65 vitórias, 0 empates, 35 derrotas" src="https://via.placeholder.com/15/595900/000000?text=+"/></td>
 <td><img alt="11 vitórias, 0 empates, 89 derrotas" src="https://via.placeholder.com/15/E2E200/000000?text=+"/></td>
@@ -925,7 +926,7 @@ Pokémon in Exalted
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Charizard" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/6.png"/></td>
+<td><img alt="Charizard" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/6.png"/></td>
 <td><img alt="95 vitórias, 0 empates, 5 derrotas" src="https://via.placeholder.com/15/0C0C00/000000?text=+"/></td>
 <td><img alt="77 vitórias, 0 empates, 23 derrotas" src="https://via.placeholder.com/15/3A3A00/000000?text=+"/></td>
 <td><img alt="35 vitórias, 0 empates, 65 derrotas" src="https://via.placeholder.com/15/A5A500/000000?text=+"/></td>
@@ -1079,7 +1080,7 @@ Pokémon in Exalted
 <td><img alt="18 vitórias, 0 empates, 82 derrotas" src="https://via.placeholder.com/15/D1D100/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Squirtle" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/7.png"/></td>
+<td><img alt="Squirtle" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/7.png"/></td>
 <td><img alt="50 vitórias, 0 empates, 50 derrotas" src="https://via.placeholder.com/15/7F7F00/000000?text=+"/></td>
 <td><img alt="30 vitórias, 0 empates, 70 derrotas" src="https://via.placeholder.com/15/B2B200/000000?text=+"/></td>
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
@@ -1233,7 +1234,7 @@ Pokémon in Exalted
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Wartortle" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/8.png"/></td>
+<td><img alt="Wartortle" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/8.png"/></td>
 <td><img alt="54 vitórias, 0 empates, 46 derrotas" src="https://via.placeholder.com/15/757500/000000?text=+"/></td>
 <td><img alt="25 vitórias, 0 empates, 75 derrotas" src="https://via.placeholder.com/15/BFBF00/000000?text=+"/></td>
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
@@ -1387,7 +1388,7 @@ Pokémon in Exalted
 <td><img alt="4 vitórias, 0 empates, 96 derrotas" src="https://via.placeholder.com/15/F4F400/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Blastoise" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/9.png"/></td>
+<td><img alt="Blastoise" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/9.png"/></td>
 <td><img alt="84 vitórias, 0 empates, 16 derrotas" src="https://via.placeholder.com/15/282800/000000?text=+"/></td>
 <td><img alt="61 vitórias, 0 empates, 39 derrotas" src="https://via.placeholder.com/15/636300/000000?text=+"/></td>
 <td><img alt="12 vitórias, 0 empates, 88 derrotas" src="https://via.placeholder.com/15/E0E000/000000?text=+"/></td>
@@ -1541,7 +1542,7 @@ Pokémon in Exalted
 <td><img alt="17 vitórias, 0 empates, 83 derrotas" src="https://via.placeholder.com/15/D3D300/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Caterpie" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/10.png"/></td>
+<td><img alt="Caterpie" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/10.png"/></td>
 <td><img alt="15 vitórias, 0 empates, 85 derrotas" src="https://via.placeholder.com/15/D8D800/000000?text=+"/></td>
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -1695,7 +1696,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Metapod" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/11.png"/></td>
+<td><img alt="Metapod" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/11.png"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -1849,7 +1850,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Butterfree" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/12.png"/></td>
+<td><img alt="Butterfree" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/12.png"/></td>
 <td><img alt="96 vitórias, 0 empates, 4 derrotas" src="https://via.placeholder.com/15/0A0A00/000000?text=+"/></td>
 <td><img alt="83 vitórias, 0 empates, 17 derrotas" src="https://via.placeholder.com/15/2B2B00/000000?text=+"/></td>
 <td><img alt="31 vitórias, 0 empates, 69 derrotas" src="https://via.placeholder.com/15/AFAF00/000000?text=+"/></td>
@@ -2003,7 +2004,7 @@ Pokémon in Exalted
 <td><img alt="47 vitórias, 0 empates, 53 derrotas" src="https://via.placeholder.com/15/878700/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Weedle" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/13.png"/></td>
+<td><img alt="Weedle" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/13.png"/></td>
 <td><img alt="19 vitórias, 0 empates, 81 derrotas" src="https://via.placeholder.com/15/CECE00/000000?text=+"/></td>
 <td><img alt="7 vitórias, 0 empates, 93 derrotas" src="https://via.placeholder.com/15/EDED00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -2157,7 +2158,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Kakuna" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/14.png"/></td>
+<td><img alt="Kakuna" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/14.png"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -2311,7 +2312,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Beedrill" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/15.png"/></td>
+<td><img alt="Beedrill" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/15.png"/></td>
 <td><img alt="93 vitórias, 0 empates, 7 derrotas" src="https://via.placeholder.com/15/111100/000000?text=+"/></td>
 <td><img alt="75 vitórias, 0 empates, 25 derrotas" src="https://via.placeholder.com/15/3F3F00/000000?text=+"/></td>
 <td><img alt="22 vitórias, 0 empates, 78 derrotas" src="https://via.placeholder.com/15/C6C600/000000?text=+"/></td>
@@ -2465,7 +2466,7 @@ Pokémon in Exalted
 <td><img alt="9 vitórias, 0 empates, 91 derrotas" src="https://via.placeholder.com/15/E8E800/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Pidgey" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/16.png"/></td>
+<td><img alt="Pidgey" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/16.png"/></td>
 <td><img alt="43 vitórias, 1 empates, 56 derrotas" src="https://via.placeholder.com/15/909000/000000?text=+"/></td>
 <td><img alt="16 vitórias, 0 empates, 84 derrotas" src="https://via.placeholder.com/15/D6D600/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -2619,7 +2620,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Pidgeotto" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/17.png"/></td>
+<td><img alt="Pidgeotto" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/17.png"/></td>
 <td><img alt="88 vitórias, 0 empates, 12 derrotas" src="https://via.placeholder.com/15/1E1E00/000000?text=+"/></td>
 <td><img alt="63 vitórias, 0 empates, 37 derrotas" src="https://via.placeholder.com/15/5E5E00/000000?text=+"/></td>
 <td><img alt="7 vitórias, 0 empates, 93 derrotas" src="https://via.placeholder.com/15/EDED00/000000?text=+"/></td>
@@ -2773,7 +2774,7 @@ Pokémon in Exalted
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Pidgeot" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/18.png"/></td>
+<td><img alt="Pidgeot" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/18.png"/></td>
 <td><img alt="98 vitórias, 0 empates, 2 derrotas" src="https://via.placeholder.com/15/050500/000000?text=+"/></td>
 <td><img alt="92 vitórias, 0 empates, 8 derrotas" src="https://via.placeholder.com/15/141400/000000?text=+"/></td>
 <td><img alt="39 vitórias, 0 empates, 61 derrotas" src="https://via.placeholder.com/15/9B9B00/000000?text=+"/></td>
@@ -2927,7 +2928,7 @@ Pokémon in Exalted
 <td><img alt="17 vitórias, 0 empates, 83 derrotas" src="https://via.placeholder.com/15/D3D300/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Rattata" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/19.png"/></td>
+<td><img alt="Rattata" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/19.png"/></td>
 <td><img alt="34 vitórias, 0 empates, 66 derrotas" src="https://via.placeholder.com/15/A8A800/000000?text=+"/></td>
 <td><img alt="18 vitórias, 0 empates, 82 derrotas" src="https://via.placeholder.com/15/D1D100/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -3081,7 +3082,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Raticate" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/20.png"/></td>
+<td><img alt="Raticate" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/20.png"/></td>
 <td><img alt="79 vitórias, 0 empates, 21 derrotas" src="https://via.placeholder.com/15/353500/000000?text=+"/></td>
 <td><img alt="60 vitórias, 0 empates, 40 derrotas" src="https://via.placeholder.com/15/666600/000000?text=+"/></td>
 <td><img alt="13 vitórias, 0 empates, 87 derrotas" src="https://via.placeholder.com/15/DDDD00/000000?text=+"/></td>
@@ -3235,7 +3236,7 @@ Pokémon in Exalted
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Spearow" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/21.png"/></td>
+<td><img alt="Spearow" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/21.png"/></td>
 <td><img alt="45 vitórias, 1 empates, 54 derrotas" src="https://via.placeholder.com/15/8B8B00/000000?text=+"/></td>
 <td><img alt="27 vitórias, 0 empates, 73 derrotas" src="https://via.placeholder.com/15/BABA00/000000?text=+"/></td>
 <td><img alt="4 vitórias, 0 empates, 96 derrotas" src="https://via.placeholder.com/15/F4F400/000000?text=+"/></td>
@@ -3389,7 +3390,7 @@ Pokémon in Exalted
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Fearow" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/22.png"/></td>
+<td><img alt="Fearow" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/22.png"/></td>
 <td><img alt="96 vitórias, 0 empates, 4 derrotas" src="https://via.placeholder.com/15/0A0A00/000000?text=+"/></td>
 <td><img alt="79 vitórias, 0 empates, 21 derrotas" src="https://via.placeholder.com/15/353500/000000?text=+"/></td>
 <td><img alt="21 vitórias, 0 empates, 79 derrotas" src="https://via.placeholder.com/15/C9C900/000000?text=+"/></td>
@@ -3543,7 +3544,7 @@ Pokémon in Exalted
 <td><img alt="7 vitórias, 0 empates, 93 derrotas" src="https://via.placeholder.com/15/EDED00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Ekans" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/23.png"/></td>
+<td><img alt="Ekans" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/23.png"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -3697,7 +3698,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Arbok" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/24.png"/></td>
+<td><img alt="Arbok" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/24.png"/></td>
 <td><img alt="87 vitórias, 0 empates, 13 derrotas" src="https://via.placeholder.com/15/212100/000000?text=+"/></td>
 <td><img alt="68 vitórias, 0 empates, 32 derrotas" src="https://via.placeholder.com/15/515100/000000?text=+"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
@@ -3851,7 +3852,7 @@ Pokémon in Exalted
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Pikachu" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/25.png"/></td>
+<td><img alt="Pikachu" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/25.png"/></td>
 <td><img alt="84 vitórias, 0 empates, 16 derrotas" src="https://via.placeholder.com/15/282800/000000?text=+"/></td>
 <td><img alt="60 vitórias, 0 empates, 40 derrotas" src="https://via.placeholder.com/15/666600/000000?text=+"/></td>
 <td><img alt="13 vitórias, 0 empates, 87 derrotas" src="https://via.placeholder.com/15/DDDD00/000000?text=+"/></td>
@@ -4005,7 +4006,7 @@ Pokémon in Exalted
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Raichu" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/26.png"/></td>
+<td><img alt="Raichu" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/26.png"/></td>
 <td><img alt="95 vitórias, 0 empates, 5 derrotas" src="https://via.placeholder.com/15/0C0C00/000000?text=+"/></td>
 <td><img alt="86 vitórias, 0 empates, 14 derrotas" src="https://via.placeholder.com/15/232300/000000?text=+"/></td>
 <td><img alt="46 vitórias, 0 empates, 54 derrotas" src="https://via.placeholder.com/15/898900/000000?text=+"/></td>
@@ -4159,7 +4160,7 @@ Pokémon in Exalted
 <td><img alt="24 vitórias, 0 empates, 76 derrotas" src="https://via.placeholder.com/15/C1C100/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Sandshrew" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/27.png"/></td>
+<td><img alt="Sandshrew" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/27.png"/></td>
 <td><img alt="18 vitórias, 0 empates, 82 derrotas" src="https://via.placeholder.com/15/D1D100/000000?text=+"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -4313,7 +4314,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Sandslash" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/28.png"/></td>
+<td><img alt="Sandslash" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/28.png"/></td>
 <td><img alt="88 vitórias, 0 empates, 12 derrotas" src="https://via.placeholder.com/15/1E1E00/000000?text=+"/></td>
 <td><img alt="64 vitórias, 0 empates, 36 derrotas" src="https://via.placeholder.com/15/5B5B00/000000?text=+"/></td>
 <td><img alt="4 vitórias, 0 empates, 96 derrotas" src="https://via.placeholder.com/15/F4F400/000000?text=+"/></td>
@@ -4467,7 +4468,7 @@ Pokémon in Exalted
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Nidoran♀" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/29.png"/></td>
+<td><img alt="Nidoran♀" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/29.png"/></td>
 <td><img alt="21 vitórias, 0 empates, 79 derrotas" src="https://via.placeholder.com/15/C9C900/000000?text=+"/></td>
 <td><img alt="10 vitórias, 0 empates, 90 derrotas" src="https://via.placeholder.com/15/E5E500/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -4621,7 +4622,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Nidorina" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/30.png"/></td>
+<td><img alt="Nidorina" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/30.png"/></td>
 <td><img alt="55 vitórias, 0 empates, 45 derrotas" src="https://via.placeholder.com/15/727200/000000?text=+"/></td>
 <td><img alt="23 vitórias, 0 empates, 77 derrotas" src="https://via.placeholder.com/15/C4C400/000000?text=+"/></td>
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
@@ -4775,7 +4776,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Nidoqueen" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/31.png"/></td>
+<td><img alt="Nidoqueen" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/31.png"/></td>
 <td><img alt="84 vitórias, 0 empates, 16 derrotas" src="https://via.placeholder.com/15/282800/000000?text=+"/></td>
 <td><img alt="69 vitórias, 0 empates, 31 derrotas" src="https://via.placeholder.com/15/4F4F00/000000?text=+"/></td>
 <td><img alt="14 vitórias, 0 empates, 86 derrotas" src="https://via.placeholder.com/15/DBDB00/000000?text=+"/></td>
@@ -4929,7 +4930,7 @@ Pokémon in Exalted
 <td><img alt="10 vitórias, 0 empates, 90 derrotas" src="https://via.placeholder.com/15/E5E500/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Nidoran♂" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/32.png"/></td>
+<td><img alt="Nidoran♂" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/32.png"/></td>
 <td><img alt="20 vitórias, 1 empates, 79 derrotas" src="https://via.placeholder.com/15/CBCB00/000000?text=+"/></td>
 <td><img alt="8 vitórias, 0 empates, 92 derrotas" src="https://via.placeholder.com/15/EAEA00/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -5083,7 +5084,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Nidorino" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/33.png"/></td>
+<td><img alt="Nidorino" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/33.png"/></td>
 <td><img alt="85 vitórias, 0 empates, 15 derrotas" src="https://via.placeholder.com/15/262600/000000?text=+"/></td>
 <td><img alt="63 vitórias, 0 empates, 37 derrotas" src="https://via.placeholder.com/15/5E5E00/000000?text=+"/></td>
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
@@ -5237,7 +5238,7 @@ Pokémon in Exalted
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Nidoking" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/34.png"/></td>
+<td><img alt="Nidoking" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/34.png"/></td>
 <td><img alt="91 vitórias, 0 empates, 9 derrotas" src="https://via.placeholder.com/15/161600/000000?text=+"/></td>
 <td><img alt="69 vitórias, 0 empates, 31 derrotas" src="https://via.placeholder.com/15/4F4F00/000000?text=+"/></td>
 <td><img alt="15 vitórias, 0 empates, 85 derrotas" src="https://via.placeholder.com/15/D8D800/000000?text=+"/></td>
@@ -5391,7 +5392,7 @@ Pokémon in Exalted
 <td><img alt="15 vitórias, 0 empates, 85 derrotas" src="https://via.placeholder.com/15/D8D800/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Clefairy" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/35.png"/></td>
+<td><img alt="Clefairy" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/35.png"/></td>
 <td><img alt="74 vitórias, 0 empates, 26 derrotas" src="https://via.placeholder.com/15/424200/000000?text=+"/></td>
 <td><img alt="34 vitórias, 0 empates, 66 derrotas" src="https://via.placeholder.com/15/A8A800/000000?text=+"/></td>
 <td><img alt="7 vitórias, 0 empates, 93 derrotas" src="https://via.placeholder.com/15/EDED00/000000?text=+"/></td>
@@ -5545,7 +5546,7 @@ Pokémon in Exalted
 <td><img alt="13 vitórias, 0 empates, 87 derrotas" src="https://via.placeholder.com/15/DDDD00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Clefable" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/36.png"/></td>
+<td><img alt="Clefable" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/36.png"/></td>
 <td><img alt="91 vitórias, 0 empates, 9 derrotas" src="https://via.placeholder.com/15/161600/000000?text=+"/></td>
 <td><img alt="80 vitórias, 0 empates, 20 derrotas" src="https://via.placeholder.com/15/333300/000000?text=+"/></td>
 <td><img alt="51 vitórias, 0 empates, 49 derrotas" src="https://via.placeholder.com/15/7C7C00/000000?text=+"/></td>
@@ -5699,7 +5700,7 @@ Pokémon in Exalted
 <td><img alt="51 vitórias, 0 empates, 49 derrotas" src="https://via.placeholder.com/15/7C7C00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Vulpix" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/37.png"/></td>
+<td><img alt="Vulpix" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/37.png"/></td>
 <td><img alt="59 vitórias, 0 empates, 41 derrotas" src="https://via.placeholder.com/15/686800/000000?text=+"/></td>
 <td><img alt="20 vitórias, 0 empates, 80 derrotas" src="https://via.placeholder.com/15/CCCC00/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -5853,7 +5854,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Ninetales" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/38.png"/></td>
+<td><img alt="Ninetales" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/38.png"/></td>
 <td><img alt="96 vitórias, 0 empates, 4 derrotas" src="https://via.placeholder.com/15/0A0A00/000000?text=+"/></td>
 <td><img alt="77 vitórias, 0 empates, 23 derrotas" src="https://via.placeholder.com/15/3A3A00/000000?text=+"/></td>
 <td><img alt="23 vitórias, 0 empates, 77 derrotas" src="https://via.placeholder.com/15/C4C400/000000?text=+"/></td>
@@ -6007,7 +6008,7 @@ Pokémon in Exalted
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Jigglypuff" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/39.png"/></td>
+<td><img alt="Jigglypuff" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/39.png"/></td>
 <td><img alt="49 vitórias, 0 empates, 51 derrotas" src="https://via.placeholder.com/15/828200/000000?text=+"/></td>
 <td><img alt="28 vitórias, 0 empates, 72 derrotas" src="https://via.placeholder.com/15/B7B700/000000?text=+"/></td>
 <td><img alt="28 vitórias, 0 empates, 72 derrotas" src="https://via.placeholder.com/15/B7B700/000000?text=+"/></td>
@@ -6161,7 +6162,7 @@ Pokémon in Exalted
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Wigglytuff" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/40.png"/></td>
+<td><img alt="Wigglytuff" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/40.png"/></td>
 <td><img alt="92 vitórias, 0 empates, 8 derrotas" src="https://via.placeholder.com/15/141400/000000?text=+"/></td>
 <td><img alt="68 vitórias, 0 empates, 32 derrotas" src="https://via.placeholder.com/15/515100/000000?text=+"/></td>
 <td><img alt="44 vitórias, 0 empates, 56 derrotas" src="https://via.placeholder.com/15/8E8E00/000000?text=+"/></td>
@@ -6315,7 +6316,7 @@ Pokémon in Exalted
 <td><img alt="20 vitórias, 0 empates, 80 derrotas" src="https://via.placeholder.com/15/CCCC00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Zubat" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/41.png"/></td>
+<td><img alt="Zubat" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/41.png"/></td>
 <td><img alt="13 vitórias, 0 empates, 87 derrotas" src="https://via.placeholder.com/15/DDDD00/000000?text=+"/></td>
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -6469,7 +6470,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Golbat" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/42.png"/></td>
+<td><img alt="Golbat" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/42.png"/></td>
 <td><img alt="89 vitórias, 0 empates, 11 derrotas" src="https://via.placeholder.com/15/1C1C00/000000?text=+"/></td>
 <td><img alt="62 vitórias, 0 empates, 38 derrotas" src="https://via.placeholder.com/15/606000/000000?text=+"/></td>
 <td><img alt="4 vitórias, 0 empates, 96 derrotas" src="https://via.placeholder.com/15/F4F400/000000?text=+"/></td>
@@ -6623,7 +6624,7 @@ Pokémon in Exalted
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Oddish" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/43.png"/></td>
+<td><img alt="Oddish" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/43.png"/></td>
 <td><img alt="13 vitórias, 6 empates, 81 derrotas" src="https://via.placeholder.com/15/DCDC00/000000?text=+"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
@@ -6777,7 +6778,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Gloom" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/44.png"/></td>
+<td><img alt="Gloom" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/44.png"/></td>
 <td><img alt="77 vitórias, 0 empates, 23 derrotas" src="https://via.placeholder.com/15/3A3A00/000000?text=+"/></td>
 <td><img alt="46 vitórias, 1 empates, 53 derrotas" src="https://via.placeholder.com/15/898900/000000?text=+"/></td>
 <td><img alt="7 vitórias, 0 empates, 93 derrotas" src="https://via.placeholder.com/15/EDED00/000000?text=+"/></td>
@@ -6931,7 +6932,7 @@ Pokémon in Exalted
 <td><img alt="14 vitórias, 0 empates, 86 derrotas" src="https://via.placeholder.com/15/DBDB00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Vileplume" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/45.png"/></td>
+<td><img alt="Vileplume" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/45.png"/></td>
 <td><img alt="93 vitórias, 0 empates, 7 derrotas" src="https://via.placeholder.com/15/111100/000000?text=+"/></td>
 <td><img alt="87 vitórias, 0 empates, 13 derrotas" src="https://via.placeholder.com/15/212100/000000?text=+"/></td>
 <td><img alt="19 vitórias, 0 empates, 81 derrotas" src="https://via.placeholder.com/15/CECE00/000000?text=+"/></td>
@@ -7085,7 +7086,7 @@ Pokémon in Exalted
 <td><img alt="28 vitórias, 0 empates, 72 derrotas" src="https://via.placeholder.com/15/B7B700/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Paras" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/46.png"/></td>
+<td><img alt="Paras" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/46.png"/></td>
 <td><img alt="12 vitórias, 3 empates, 85 derrotas" src="https://via.placeholder.com/15/DFDF00/000000?text=+"/></td>
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -7239,7 +7240,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Parasect" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/47.png"/></td>
+<td><img alt="Parasect" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/47.png"/></td>
 <td><img alt="79 vitórias, 1 empates, 20 derrotas" src="https://via.placeholder.com/15/343400/000000?text=+"/></td>
 <td><img alt="58 vitórias, 0 empates, 42 derrotas" src="https://via.placeholder.com/15/6B6B00/000000?text=+"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
@@ -7393,7 +7394,7 @@ Pokémon in Exalted
 <td><img alt="7 vitórias, 0 empates, 93 derrotas" src="https://via.placeholder.com/15/EDED00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Venonat" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/48.png"/></td>
+<td><img alt="Venonat" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/48.png"/></td>
 <td><img alt="33 vitórias, 1 empates, 66 derrotas" src="https://via.placeholder.com/15/AAAA00/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -7547,7 +7548,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Venomoth" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/49.png"/></td>
+<td><img alt="Venomoth" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/49.png"/></td>
 <td><img alt="86 vitórias, 0 empates, 14 derrotas" src="https://via.placeholder.com/15/232300/000000?text=+"/></td>
 <td><img alt="70 vitórias, 1 empates, 29 derrotas" src="https://via.placeholder.com/15/4B4B00/000000?text=+"/></td>
 <td><img alt="10 vitórias, 0 empates, 90 derrotas" src="https://via.placeholder.com/15/E5E500/000000?text=+"/></td>
@@ -7701,7 +7702,7 @@ Pokémon in Exalted
 <td><img alt="23 vitórias, 0 empates, 77 derrotas" src="https://via.placeholder.com/15/C4C400/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Digllet" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/50.png"/></td>
+<td><img alt="Digllet" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/50.png"/></td>
 <td><img alt="30 vitórias, 0 empates, 70 derrotas" src="https://via.placeholder.com/15/B2B200/000000?text=+"/></td>
 <td><img alt="15 vitórias, 0 empates, 85 derrotas" src="https://via.placeholder.com/15/D8D800/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -7855,7 +7856,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Dugtrio" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/51.png"/></td>
+<td><img alt="Dugtrio" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/51.png"/></td>
 <td><img alt="81 vitórias, 0 empates, 19 derrotas" src="https://via.placeholder.com/15/303000/000000?text=+"/></td>
 <td><img alt="69 vitórias, 0 empates, 31 derrotas" src="https://via.placeholder.com/15/4F4F00/000000?text=+"/></td>
 <td><img alt="16 vitórias, 0 empates, 84 derrotas" src="https://via.placeholder.com/15/D6D600/000000?text=+"/></td>
@@ -8009,7 +8010,7 @@ Pokémon in Exalted
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Meowth" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/52.png"/></td>
+<td><img alt="Meowth" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/52.png"/></td>
 <td><img alt="33 vitórias, 0 empates, 67 derrotas" src="https://via.placeholder.com/15/AAAA00/000000?text=+"/></td>
 <td><img alt="12 vitórias, 0 empates, 88 derrotas" src="https://via.placeholder.com/15/E0E000/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -8163,7 +8164,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Persian" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/53.png"/></td>
+<td><img alt="Persian" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/53.png"/></td>
 <td><img alt="89 vitórias, 0 empates, 11 derrotas" src="https://via.placeholder.com/15/1C1C00/000000?text=+"/></td>
 <td><img alt="72 vitórias, 0 empates, 28 derrotas" src="https://via.placeholder.com/15/474700/000000?text=+"/></td>
 <td><img alt="13 vitórias, 0 empates, 87 derrotas" src="https://via.placeholder.com/15/DDDD00/000000?text=+"/></td>
@@ -8317,7 +8318,7 @@ Pokémon in Exalted
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Psyduck" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/54.png"/></td>
+<td><img alt="Psyduck" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/54.png"/></td>
 <td><img alt="10 vitórias, 0 empates, 90 derrotas" src="https://via.placeholder.com/15/E5E500/000000?text=+"/></td>
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -8471,7 +8472,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Golduck" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/55.png"/></td>
+<td><img alt="Golduck" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/55.png"/></td>
 <td><img alt="80 vitórias, 0 empates, 20 derrotas" src="https://via.placeholder.com/15/333300/000000?text=+"/></td>
 <td><img alt="55 vitórias, 0 empates, 45 derrotas" src="https://via.placeholder.com/15/727200/000000?text=+"/></td>
 <td><img alt="8 vitórias, 0 empates, 92 derrotas" src="https://via.placeholder.com/15/EAEA00/000000?text=+"/></td>
@@ -8625,7 +8626,7 @@ Pokémon in Exalted
 <td><img alt="11 vitórias, 0 empates, 89 derrotas" src="https://via.placeholder.com/15/E2E200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Mankey" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/56.png"/></td>
+<td><img alt="Mankey" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/56.png"/></td>
 <td><img alt="54 vitórias, 0 empates, 46 derrotas" src="https://via.placeholder.com/15/757500/000000?text=+"/></td>
 <td><img alt="33 vitórias, 0 empates, 67 derrotas" src="https://via.placeholder.com/15/AAAA00/000000?text=+"/></td>
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
@@ -8779,7 +8780,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Primeape" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/57.png"/></td>
+<td><img alt="Primeape" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/57.png"/></td>
 <td><img alt="87 vitórias, 0 empates, 13 derrotas" src="https://via.placeholder.com/15/212100/000000?text=+"/></td>
 <td><img alt="59 vitórias, 0 empates, 41 derrotas" src="https://via.placeholder.com/15/686800/000000?text=+"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
@@ -8933,7 +8934,7 @@ Pokémon in Exalted
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Growlithe" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/58.png"/></td>
+<td><img alt="Growlithe" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/58.png"/></td>
 <td><img alt="52 vitórias, 0 empates, 48 derrotas" src="https://via.placeholder.com/15/7A7A00/000000?text=+"/></td>
 <td><img alt="26 vitórias, 0 empates, 74 derrotas" src="https://via.placeholder.com/15/BCBC00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -9087,7 +9088,7 @@ Pokémon in Exalted
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Arcanine" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/59.png"/></td>
+<td><img alt="Arcanine" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/59.png"/></td>
 <td><img alt="98 vitórias, 0 empates, 2 derrotas" src="https://via.placeholder.com/15/050500/000000?text=+"/></td>
 <td><img alt="82 vitórias, 0 empates, 18 derrotas" src="https://via.placeholder.com/15/2D2D00/000000?text=+"/></td>
 <td><img alt="20 vitórias, 0 empates, 80 derrotas" src="https://via.placeholder.com/15/CCCC00/000000?text=+"/></td>
@@ -9241,7 +9242,7 @@ Pokémon in Exalted
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Poliwag" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/60.png"/></td>
+<td><img alt="Poliwag" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/60.png"/></td>
 <td><img alt="19 vitórias, 0 empates, 81 derrotas" src="https://via.placeholder.com/15/CECE00/000000?text=+"/></td>
 <td><img alt="4 vitórias, 0 empates, 96 derrotas" src="https://via.placeholder.com/15/F4F400/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -9395,7 +9396,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Poliwhirl" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/61.png"/></td>
+<td><img alt="Poliwhirl" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/61.png"/></td>
 <td><img alt="67 vitórias, 0 empates, 33 derrotas" src="https://via.placeholder.com/15/545400/000000?text=+"/></td>
 <td><img alt="28 vitórias, 0 empates, 72 derrotas" src="https://via.placeholder.com/15/B7B700/000000?text=+"/></td>
 <td><img alt="9 vitórias, 0 empates, 91 derrotas" src="https://via.placeholder.com/15/E8E800/000000?text=+"/></td>
@@ -9549,7 +9550,7 @@ Pokémon in Exalted
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Poliwrath" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/62.png"/></td>
+<td><img alt="Poliwrath" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/62.png"/></td>
 <td><img alt="87 vitórias, 0 empates, 13 derrotas" src="https://via.placeholder.com/15/212100/000000?text=+"/></td>
 <td><img alt="81 vitórias, 0 empates, 19 derrotas" src="https://via.placeholder.com/15/303000/000000?text=+"/></td>
 <td><img alt="44 vitórias, 0 empates, 56 derrotas" src="https://via.placeholder.com/15/8E8E00/000000?text=+"/></td>
@@ -9703,7 +9704,7 @@ Pokémon in Exalted
 <td><img alt="45 vitórias, 0 empates, 55 derrotas" src="https://via.placeholder.com/15/8C8C00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Abra" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/63.png"/></td>
+<td><img alt="Abra" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/63.png"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -9857,7 +9858,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Kadabra" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/64.png"/></td>
+<td><img alt="Kadabra" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/64.png"/></td>
 <td><img alt="98 vitórias, 0 empates, 2 derrotas" src="https://via.placeholder.com/15/050500/000000?text=+"/></td>
 <td><img alt="88 vitórias, 0 empates, 12 derrotas" src="https://via.placeholder.com/15/1E1E00/000000?text=+"/></td>
 <td><img alt="25 vitórias, 0 empates, 75 derrotas" src="https://via.placeholder.com/15/BFBF00/000000?text=+"/></td>
@@ -10011,7 +10012,7 @@ Pokémon in Exalted
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Alakazam" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/65.png"/></td>
+<td><img alt="Alakazam" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/65.png"/></td>
 <td><img alt="99 vitórias, 0 empates, 1 derrotas" src="https://via.placeholder.com/15/020200/000000?text=+"/></td>
 <td><img alt="96 vitórias, 0 empates, 4 derrotas" src="https://via.placeholder.com/15/0A0A00/000000?text=+"/></td>
 <td><img alt="52 vitórias, 0 empates, 48 derrotas" src="https://via.placeholder.com/15/7A7A00/000000?text=+"/></td>
@@ -10165,7 +10166,7 @@ Pokémon in Exalted
 <td><img alt="40 vitórias, 0 empates, 60 derrotas" src="https://via.placeholder.com/15/999900/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Machop" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/66.png"/></td>
+<td><img alt="Machop" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/66.png"/></td>
 <td><img alt="24 vitórias, 0 empates, 76 derrotas" src="https://via.placeholder.com/15/C1C100/000000?text=+"/></td>
 <td><img alt="4 vitórias, 0 empates, 96 derrotas" src="https://via.placeholder.com/15/F4F400/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -10319,7 +10320,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Machoke" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/67.png"/></td>
+<td><img alt="Machoke" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/67.png"/></td>
 <td><img alt="78 vitórias, 0 empates, 22 derrotas" src="https://via.placeholder.com/15/383800/000000?text=+"/></td>
 <td><img alt="34 vitórias, 0 empates, 66 derrotas" src="https://via.placeholder.com/15/A8A800/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -10473,7 +10474,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Machamp" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/68.png"/></td>
+<td><img alt="Machamp" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/68.png"/></td>
 <td><img alt="91 vitórias, 0 empates, 9 derrotas" src="https://via.placeholder.com/15/161600/000000?text=+"/></td>
 <td><img alt="67 vitórias, 0 empates, 33 derrotas" src="https://via.placeholder.com/15/545400/000000?text=+"/></td>
 <td><img alt="8 vitórias, 0 empates, 92 derrotas" src="https://via.placeholder.com/15/EAEA00/000000?text=+"/></td>
@@ -10627,7 +10628,7 @@ Pokémon in Exalted
 <td><img alt="17 vitórias, 0 empates, 83 derrotas" src="https://via.placeholder.com/15/D3D300/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Bellsprout" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/69.png"/></td>
+<td><img alt="Bellsprout" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/69.png"/></td>
 <td><img alt="16 vitórias, 0 empates, 84 derrotas" src="https://via.placeholder.com/15/D6D600/000000?text=+"/></td>
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -10781,7 +10782,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Weepinbell" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/70.png"/></td>
+<td><img alt="Weepinbell" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/70.png"/></td>
 <td><img alt="69 vitórias, 0 empates, 31 derrotas" src="https://via.placeholder.com/15/4F4F00/000000?text=+"/></td>
 <td><img alt="35 vitórias, 0 empates, 65 derrotas" src="https://via.placeholder.com/15/A5A500/000000?text=+"/></td>
 <td><img alt="4 vitórias, 0 empates, 96 derrotas" src="https://via.placeholder.com/15/F4F400/000000?text=+"/></td>
@@ -10935,7 +10936,7 @@ Pokémon in Exalted
 <td><img alt="13 vitórias, 0 empates, 87 derrotas" src="https://via.placeholder.com/15/DDDD00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Victreebel" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/71.png"/></td>
+<td><img alt="Victreebel" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/71.png"/></td>
 <td><img alt="99 vitórias, 0 empates, 1 derrotas" src="https://via.placeholder.com/15/020200/000000?text=+"/></td>
 <td><img alt="99 vitórias, 0 empates, 1 derrotas" src="https://via.placeholder.com/15/020200/000000?text=+"/></td>
 <td><img alt="57 vitórias, 0 empates, 43 derrotas" src="https://via.placeholder.com/15/6D6D00/000000?text=+"/></td>
@@ -11089,7 +11090,7 @@ Pokémon in Exalted
 <td><img alt="48 vitórias, 0 empates, 52 derrotas" src="https://via.placeholder.com/15/848400/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Tentacool" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/72.png"/></td>
+<td><img alt="Tentacool" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/72.png"/></td>
 <td><img alt="40 vitórias, 0 empates, 60 derrotas" src="https://via.placeholder.com/15/999900/000000?text=+"/></td>
 <td><img alt="11 vitórias, 0 empates, 89 derrotas" src="https://via.placeholder.com/15/E2E200/000000?text=+"/></td>
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
@@ -11243,7 +11244,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Tentacruel" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/73.png"/></td>
+<td><img alt="Tentacruel" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/73.png"/></td>
 <td><img alt="85 vitórias, 0 empates, 15 derrotas" src="https://via.placeholder.com/15/262600/000000?text=+"/></td>
 <td><img alt="78 vitórias, 0 empates, 22 derrotas" src="https://via.placeholder.com/15/383800/000000?text=+"/></td>
 <td><img alt="13 vitórias, 0 empates, 87 derrotas" src="https://via.placeholder.com/15/DDDD00/000000?text=+"/></td>
@@ -11397,7 +11398,7 @@ Pokémon in Exalted
 <td><img alt="30 vitórias, 0 empates, 70 derrotas" src="https://via.placeholder.com/15/B2B200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Geodude" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/74.png"/></td>
+<td><img alt="Geodude" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/74.png"/></td>
 <td><img alt="10 vitórias, 0 empates, 90 derrotas" src="https://via.placeholder.com/15/E5E500/000000?text=+"/></td>
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -11551,7 +11552,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Graveler" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/75.png"/></td>
+<td><img alt="Graveler" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/75.png"/></td>
 <td><img alt="60 vitórias, 0 empates, 40 derrotas" src="https://via.placeholder.com/15/666600/000000?text=+"/></td>
 <td><img alt="37 vitórias, 0 empates, 63 derrotas" src="https://via.placeholder.com/15/A0A000/000000?text=+"/></td>
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
@@ -11705,7 +11706,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Golem" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/76.png"/></td>
+<td><img alt="Golem" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/76.png"/></td>
 <td><img alt="90 vitórias, 0 empates, 10 derrotas" src="https://via.placeholder.com/15/191900/000000?text=+"/></td>
 <td><img alt="76 vitórias, 0 empates, 24 derrotas" src="https://via.placeholder.com/15/3D3D00/000000?text=+"/></td>
 <td><img alt="11 vitórias, 0 empates, 89 derrotas" src="https://via.placeholder.com/15/E2E200/000000?text=+"/></td>
@@ -11859,7 +11860,7 @@ Pokémon in Exalted
 <td><img alt="28 vitórias, 0 empates, 72 derrotas" src="https://via.placeholder.com/15/B7B700/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Ponyta" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/77.png"/></td>
+<td><img alt="Ponyta" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/77.png"/></td>
 <td><img alt="67 vitórias, 0 empates, 33 derrotas" src="https://via.placeholder.com/15/545400/000000?text=+"/></td>
 <td><img alt="46 vitórias, 0 empates, 54 derrotas" src="https://via.placeholder.com/15/898900/000000?text=+"/></td>
 <td><img alt="4 vitórias, 0 empates, 96 derrotas" src="https://via.placeholder.com/15/F4F400/000000?text=+"/></td>
@@ -12013,7 +12014,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Rapidash" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/78.png"/></td>
+<td><img alt="Rapidash" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/78.png"/></td>
 <td><img alt="96 vitórias, 0 empates, 4 derrotas" src="https://via.placeholder.com/15/0A0A00/000000?text=+"/></td>
 <td><img alt="82 vitórias, 0 empates, 18 derrotas" src="https://via.placeholder.com/15/2D2D00/000000?text=+"/></td>
 <td><img alt="32 vitórias, 0 empates, 68 derrotas" src="https://via.placeholder.com/15/ADAD00/000000?text=+"/></td>
@@ -12167,7 +12168,7 @@ Pokémon in Exalted
 <td><img alt="10 vitórias, 0 empates, 90 derrotas" src="https://via.placeholder.com/15/E5E500/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Slowpoke" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/79.png"/></td>
+<td><img alt="Slowpoke" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/79.png"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -12321,7 +12322,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Slowbro" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/80.png"/></td>
+<td><img alt="Slowbro" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/80.png"/></td>
 <td><img alt="73 vitórias, 0 empates, 27 derrotas" src="https://via.placeholder.com/15/444400/000000?text=+"/></td>
 <td><img alt="64 vitórias, 0 empates, 36 derrotas" src="https://via.placeholder.com/15/5B5B00/000000?text=+"/></td>
 <td><img alt="46 vitórias, 0 empates, 54 derrotas" src="https://via.placeholder.com/15/898900/000000?text=+"/></td>
@@ -12475,7 +12476,7 @@ Pokémon in Exalted
 <td><img alt="25 vitórias, 0 empates, 75 derrotas" src="https://via.placeholder.com/15/BFBF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Magnemite" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/81.png"/></td>
+<td><img alt="Magnemite" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/81.png"/></td>
 <td><img alt="48 vitórias, 0 empates, 52 derrotas" src="https://via.placeholder.com/15/848400/000000?text=+"/></td>
 <td><img alt="24 vitórias, 0 empates, 76 derrotas" src="https://via.placeholder.com/15/C1C100/000000?text=+"/></td>
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
@@ -12629,7 +12630,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Magneton" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/82.png"/></td>
+<td><img alt="Magneton" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/82.png"/></td>
 <td><img alt="97 vitórias, 0 empates, 3 derrotas" src="https://via.placeholder.com/15/070700/000000?text=+"/></td>
 <td><img alt="75 vitórias, 0 empates, 25 derrotas" src="https://via.placeholder.com/15/3F3F00/000000?text=+"/></td>
 <td><img alt="12 vitórias, 0 empates, 88 derrotas" src="https://via.placeholder.com/15/E0E000/000000?text=+"/></td>
@@ -12783,7 +12784,7 @@ Pokémon in Exalted
 <td><img alt="8 vitórias, 0 empates, 92 derrotas" src="https://via.placeholder.com/15/EAEA00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Farfetch'd" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/83.png"/></td>
+<td><img alt="Farfetch'd" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/83.png"/></td>
 <td><img alt="73 vitórias, 0 empates, 27 derrotas" src="https://via.placeholder.com/15/444400/000000?text=+"/></td>
 <td><img alt="47 vitórias, 0 empates, 53 derrotas" src="https://via.placeholder.com/15/878700/000000?text=+"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
@@ -12937,7 +12938,7 @@ Pokémon in Exalted
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Doduo" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/84.png"/></td>
+<td><img alt="Doduo" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/84.png"/></td>
 <td><img alt="58 vitórias, 2 empates, 40 derrotas" src="https://via.placeholder.com/15/696900/000000?text=+"/></td>
 <td><img alt="30 vitórias, 0 empates, 70 derrotas" src="https://via.placeholder.com/15/B2B200/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -13091,7 +13092,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Dodrio" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/85.png"/></td>
+<td><img alt="Dodrio" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/85.png"/></td>
 <td><img alt="97 vitórias, 0 empates, 3 derrotas" src="https://via.placeholder.com/15/070700/000000?text=+"/></td>
 <td><img alt="89 vitórias, 0 empates, 11 derrotas" src="https://via.placeholder.com/15/1C1C00/000000?text=+"/></td>
 <td><img alt="36 vitórias, 0 empates, 64 derrotas" src="https://via.placeholder.com/15/A3A300/000000?text=+"/></td>
@@ -13245,7 +13246,7 @@ Pokémon in Exalted
 <td><img alt="8 vitórias, 0 empates, 92 derrotas" src="https://via.placeholder.com/15/EAEA00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Seel" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/86.png"/></td>
+<td><img alt="Seel" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/86.png"/></td>
 <td><img alt="18 vitórias, 0 empates, 82 derrotas" src="https://via.placeholder.com/15/D1D100/000000?text=+"/></td>
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -13399,7 +13400,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Dewgong" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/87.png"/></td>
+<td><img alt="Dewgong" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/87.png"/></td>
 <td><img alt="81 vitórias, 0 empates, 19 derrotas" src="https://via.placeholder.com/15/303000/000000?text=+"/></td>
 <td><img alt="59 vitórias, 0 empates, 41 derrotas" src="https://via.placeholder.com/15/686800/000000?text=+"/></td>
 <td><img alt="10 vitórias, 0 empates, 90 derrotas" src="https://via.placeholder.com/15/E5E500/000000?text=+"/></td>
@@ -13553,7 +13554,7 @@ Pokémon in Exalted
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Grimer" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/88.png"/></td>
+<td><img alt="Grimer" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/88.png"/></td>
 <td><img alt="10 vitórias, 0 empates, 90 derrotas" src="https://via.placeholder.com/15/E5E500/000000?text=+"/></td>
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -13707,7 +13708,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Muk" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/89.png"/></td>
+<td><img alt="Muk" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/89.png"/></td>
 <td><img alt="93 vitórias, 0 empates, 7 derrotas" src="https://via.placeholder.com/15/111100/000000?text=+"/></td>
 <td><img alt="73 vitórias, 0 empates, 27 derrotas" src="https://via.placeholder.com/15/444400/000000?text=+"/></td>
 <td><img alt="7 vitórias, 0 empates, 93 derrotas" src="https://via.placeholder.com/15/EDED00/000000?text=+"/></td>
@@ -13861,7 +13862,7 @@ Pokémon in Exalted
 <td><img alt="16 vitórias, 0 empates, 84 derrotas" src="https://via.placeholder.com/15/D6D600/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Shellder" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/90.png"/></td>
+<td><img alt="Shellder" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/90.png"/></td>
 <td><img alt="33 vitórias, 0 empates, 67 derrotas" src="https://via.placeholder.com/15/AAAA00/000000?text=+"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -14015,7 +14016,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Cloyster" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/91.png"/></td>
+<td><img alt="Cloyster" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/91.png"/></td>
 <td><img alt="81 vitórias, 0 empates, 19 derrotas" src="https://via.placeholder.com/15/303000/000000?text=+"/></td>
 <td><img alt="53 vitórias, 0 empates, 47 derrotas" src="https://via.placeholder.com/15/777700/000000?text=+"/></td>
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
@@ -14169,7 +14170,7 @@ Pokémon in Exalted
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Gastly" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/92.png"/></td>
+<td><img alt="Gastly" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/92.png"/></td>
 <td><img alt="48 vitórias, 0 empates, 52 derrotas" src="https://via.placeholder.com/15/848400/000000?text=+"/></td>
 <td><img alt="20 vitórias, 0 empates, 80 derrotas" src="https://via.placeholder.com/15/CCCC00/000000?text=+"/></td>
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
@@ -14323,7 +14324,7 @@ Pokémon in Exalted
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Haunter" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/93.png"/></td>
+<td><img alt="Haunter" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/93.png"/></td>
 <td><img alt="95 vitórias, 0 empates, 5 derrotas" src="https://via.placeholder.com/15/0C0C00/000000?text=+"/></td>
 <td><img alt="77 vitórias, 0 empates, 23 derrotas" src="https://via.placeholder.com/15/3A3A00/000000?text=+"/></td>
 <td><img alt="47 vitórias, 0 empates, 53 derrotas" src="https://via.placeholder.com/15/878700/000000?text=+"/></td>
@@ -14477,7 +14478,7 @@ Pokémon in Exalted
 <td><img alt="8 vitórias, 0 empates, 92 derrotas" src="https://via.placeholder.com/15/EAEA00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Gengar" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/94.png"/></td>
+<td><img alt="Gengar" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/94.png"/></td>
 <td><img alt="96 vitórias, 0 empates, 4 derrotas" src="https://via.placeholder.com/15/0A0A00/000000?text=+"/></td>
 <td><img alt="86 vitórias, 0 empates, 14 derrotas" src="https://via.placeholder.com/15/232300/000000?text=+"/></td>
 <td><img alt="68 vitórias, 0 empates, 32 derrotas" src="https://via.placeholder.com/15/515100/000000?text=+"/></td>
@@ -14631,7 +14632,7 @@ Pokémon in Exalted
 <td><img alt="75 vitórias, 0 empates, 25 derrotas" src="https://via.placeholder.com/15/3F3F00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Onix" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/95.png"/></td>
+<td><img alt="Onix" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/95.png"/></td>
 <td><img alt="49 vitórias, 0 empates, 51 derrotas" src="https://via.placeholder.com/15/828200/000000?text=+"/></td>
 <td><img alt="30 vitórias, 0 empates, 70 derrotas" src="https://via.placeholder.com/15/B2B200/000000?text=+"/></td>
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
@@ -14785,7 +14786,7 @@ Pokémon in Exalted
 <td><img alt="9 vitórias, 0 empates, 91 derrotas" src="https://via.placeholder.com/15/E8E800/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Drowzee" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/96.png"/></td>
+<td><img alt="Drowzee" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/96.png"/></td>
 <td><img alt="35 vitórias, 0 empates, 65 derrotas" src="https://via.placeholder.com/15/A5A500/000000?text=+"/></td>
 <td><img alt="15 vitórias, 0 empates, 85 derrotas" src="https://via.placeholder.com/15/D8D800/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -14939,7 +14940,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Hypno" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/97.png"/></td>
+<td><img alt="Hypno" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/97.png"/></td>
 <td><img alt="99 vitórias, 0 empates, 1 derrotas" src="https://via.placeholder.com/15/020200/000000?text=+"/></td>
 <td><img alt="79 vitórias, 0 empates, 21 derrotas" src="https://via.placeholder.com/15/353500/000000?text=+"/></td>
 <td><img alt="33 vitórias, 0 empates, 67 derrotas" src="https://via.placeholder.com/15/AAAA00/000000?text=+"/></td>
@@ -15093,7 +15094,7 @@ Pokémon in Exalted
 <td><img alt="30 vitórias, 0 empates, 70 derrotas" src="https://via.placeholder.com/15/B2B200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Krabby" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/98.png"/></td>
+<td><img alt="Krabby" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/98.png"/></td>
 <td><img alt="21 vitórias, 0 empates, 79 derrotas" src="https://via.placeholder.com/15/C9C900/000000?text=+"/></td>
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -15247,7 +15248,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Kingler" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/99.png"/></td>
+<td><img alt="Kingler" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/99.png"/></td>
 <td><img alt="88 vitórias, 0 empates, 12 derrotas" src="https://via.placeholder.com/15/1E1E00/000000?text=+"/></td>
 <td><img alt="54 vitórias, 0 empates, 46 derrotas" src="https://via.placeholder.com/15/757500/000000?text=+"/></td>
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
@@ -15401,7 +15402,7 @@ Pokémon in Exalted
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Voltorb" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/100.png"/></td>
+<td><img alt="Voltorb" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/100.png"/></td>
 <td><img alt="61 vitórias, 1 empates, 38 derrotas" src="https://via.placeholder.com/15/626200/000000?text=+"/></td>
 <td><img alt="30 vitórias, 0 empates, 70 derrotas" src="https://via.placeholder.com/15/B2B200/000000?text=+"/></td>
 <td><img alt="8 vitórias, 0 empates, 92 derrotas" src="https://via.placeholder.com/15/EAEA00/000000?text=+"/></td>
@@ -15555,7 +15556,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Electrode" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/101.png"/></td>
+<td><img alt="Electrode" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/101.png"/></td>
 <td><img alt="93 vitórias, 0 empates, 7 derrotas" src="https://via.placeholder.com/15/111100/000000?text=+"/></td>
 <td><img alt="79 vitórias, 0 empates, 21 derrotas" src="https://via.placeholder.com/15/353500/000000?text=+"/></td>
 <td><img alt="33 vitórias, 0 empates, 67 derrotas" src="https://via.placeholder.com/15/AAAA00/000000?text=+"/></td>
@@ -15709,7 +15710,7 @@ Pokémon in Exalted
 <td><img alt="18 vitórias, 0 empates, 82 derrotas" src="https://via.placeholder.com/15/D1D100/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Exeggcute" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/102.png"/></td>
+<td><img alt="Exeggcute" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/102.png"/></td>
 <td><img alt="59 vitórias, 0 empates, 41 derrotas" src="https://via.placeholder.com/15/686800/000000?text=+"/></td>
 <td><img alt="42 vitórias, 0 empates, 58 derrotas" src="https://via.placeholder.com/15/939300/000000?text=+"/></td>
 <td><img alt="21 vitórias, 0 empates, 79 derrotas" src="https://via.placeholder.com/15/C9C900/000000?text=+"/></td>
@@ -15863,7 +15864,7 @@ Pokémon in Exalted
 <td><img alt="8 vitórias, 0 empates, 92 derrotas" src="https://via.placeholder.com/15/EAEA00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Exeggutor" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/103.png"/></td>
+<td><img alt="Exeggutor" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/103.png"/></td>
 <td><img alt="93 vitórias, 0 empates, 7 derrotas" src="https://via.placeholder.com/15/111100/000000?text=+"/></td>
 <td><img alt="92 vitórias, 0 empates, 8 derrotas" src="https://via.placeholder.com/15/141400/000000?text=+"/></td>
 <td><img alt="52 vitórias, 0 empates, 48 derrotas" src="https://via.placeholder.com/15/7A7A00/000000?text=+"/></td>
@@ -16017,7 +16018,7 @@ Pokémon in Exalted
 <td><img alt="37 vitórias, 0 empates, 63 derrotas" src="https://via.placeholder.com/15/A0A000/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Cubone" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/104.png"/></td>
+<td><img alt="Cubone" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/104.png"/></td>
 <td><img alt="32 vitórias, 0 empates, 68 derrotas" src="https://via.placeholder.com/15/ADAD00/000000?text=+"/></td>
 <td><img alt="9 vitórias, 0 empates, 91 derrotas" src="https://via.placeholder.com/15/E8E800/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -16171,7 +16172,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Marowak" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/105.png"/></td>
+<td><img alt="Marowak" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/105.png"/></td>
 <td><img alt="66 vitórias, 0 empates, 34 derrotas" src="https://via.placeholder.com/15/565600/000000?text=+"/></td>
 <td><img alt="32 vitórias, 0 empates, 68 derrotas" src="https://via.placeholder.com/15/ADAD00/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -16325,7 +16326,7 @@ Pokémon in Exalted
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Hitmonlee" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/106.png"/></td>
+<td><img alt="Hitmonlee" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/106.png"/></td>
 <td><img alt="91 vitórias, 0 empates, 9 derrotas" src="https://via.placeholder.com/15/161600/000000?text=+"/></td>
 <td><img alt="70 vitórias, 0 empates, 30 derrotas" src="https://via.placeholder.com/15/4C4C00/000000?text=+"/></td>
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
@@ -16479,7 +16480,7 @@ Pokémon in Exalted
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Hitmonchan" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/107.png"/></td>
+<td><img alt="Hitmonchan" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/107.png"/></td>
 <td><img alt="89 vitórias, 0 empates, 11 derrotas" src="https://via.placeholder.com/15/1C1C00/000000?text=+"/></td>
 <td><img alt="74 vitórias, 0 empates, 26 derrotas" src="https://via.placeholder.com/15/424200/000000?text=+"/></td>
 <td><img alt="12 vitórias, 0 empates, 88 derrotas" src="https://via.placeholder.com/15/E0E000/000000?text=+"/></td>
@@ -16633,7 +16634,7 @@ Pokémon in Exalted
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Lickitung" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/108.png"/></td>
+<td><img alt="Lickitung" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/108.png"/></td>
 <td><img alt="54 vitórias, 0 empates, 46 derrotas" src="https://via.placeholder.com/15/757500/000000?text=+"/></td>
 <td><img alt="22 vitórias, 0 empates, 78 derrotas" src="https://via.placeholder.com/15/C6C600/000000?text=+"/></td>
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
@@ -16787,7 +16788,7 @@ Pokémon in Exalted
 <td><img alt="4 vitórias, 0 empates, 96 derrotas" src="https://via.placeholder.com/15/F4F400/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Koffing" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/109.png"/></td>
+<td><img alt="Koffing" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/109.png"/></td>
 <td><img alt="19 vitórias, 0 empates, 81 derrotas" src="https://via.placeholder.com/15/CECE00/000000?text=+"/></td>
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -16941,7 +16942,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Weezing" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/110.png"/></td>
+<td><img alt="Weezing" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/110.png"/></td>
 <td><img alt="81 vitórias, 0 empates, 19 derrotas" src="https://via.placeholder.com/15/303000/000000?text=+"/></td>
 <td><img alt="45 vitórias, 0 empates, 55 derrotas" src="https://via.placeholder.com/15/8C8C00/000000?text=+"/></td>
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
@@ -17095,7 +17096,7 @@ Pokémon in Exalted
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Rhyhorn" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/111.png"/></td>
+<td><img alt="Rhyhorn" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/111.png"/></td>
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -17249,7 +17250,7 @@ Pokémon in Exalted
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Rhydon" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/112.png"/></td>
+<td><img alt="Rhydon" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/112.png"/></td>
 <td><img alt="73 vitórias, 0 empates, 27 derrotas" src="https://via.placeholder.com/15/444400/000000?text=+"/></td>
 <td><img alt="46 vitórias, 0 empates, 54 derrotas" src="https://via.placeholder.com/15/898900/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -17403,7 +17404,7 @@ Pokémon in Exalted
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Chansey" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/113.png"/></td>
+<td><img alt="Chansey" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/113.png"/></td>
 <td><img alt="71 vitórias, 0 empates, 29 derrotas" src="https://via.placeholder.com/15/494900/000000?text=+"/></td>
 <td><img alt="44 vitórias, 0 empates, 56 derrotas" src="https://via.placeholder.com/15/8E8E00/000000?text=+"/></td>
 <td><img alt="9 vitórias, 0 empates, 91 derrotas" src="https://via.placeholder.com/15/E8E800/000000?text=+"/></td>
@@ -17557,7 +17558,7 @@ Pokémon in Exalted
 <td><img alt="26 vitórias, 0 empates, 74 derrotas" src="https://via.placeholder.com/15/BCBC00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Tangela" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/114.png"/></td>
+<td><img alt="Tangela" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/114.png"/></td>
 <td><img alt="30 vitórias, 0 empates, 70 derrotas" src="https://via.placeholder.com/15/B2B200/000000?text=+"/></td>
 <td><img alt="13 vitórias, 0 empates, 87 derrotas" src="https://via.placeholder.com/15/DDDD00/000000?text=+"/></td>
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
@@ -17711,7 +17712,7 @@ Pokémon in Exalted
 <td><img alt="11 vitórias, 0 empates, 89 derrotas" src="https://via.placeholder.com/15/E2E200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Kangaskhan" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/115.png"/></td>
+<td><img alt="Kangaskhan" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/115.png"/></td>
 <td><img alt="88 vitórias, 0 empates, 12 derrotas" src="https://via.placeholder.com/15/1E1E00/000000?text=+"/></td>
 <td><img alt="64 vitórias, 0 empates, 36 derrotas" src="https://via.placeholder.com/15/5B5B00/000000?text=+"/></td>
 <td><img alt="8 vitórias, 0 empates, 92 derrotas" src="https://via.placeholder.com/15/EAEA00/000000?text=+"/></td>
@@ -17865,7 +17866,7 @@ Pokémon in Exalted
 <td><img alt="15 vitórias, 0 empates, 85 derrotas" src="https://via.placeholder.com/15/D8D800/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Horsea" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/116.png"/></td>
+<td><img alt="Horsea" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/116.png"/></td>
 <td><img alt="29 vitórias, 0 empates, 71 derrotas" src="https://via.placeholder.com/15/B5B500/000000?text=+"/></td>
 <td><img alt="9 vitórias, 0 empates, 91 derrotas" src="https://via.placeholder.com/15/E8E800/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -18019,7 +18020,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Seadra" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/117.png"/></td>
+<td><img alt="Seadra" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/117.png"/></td>
 <td><img alt="84 vitórias, 0 empates, 16 derrotas" src="https://via.placeholder.com/15/282800/000000?text=+"/></td>
 <td><img alt="55 vitórias, 0 empates, 45 derrotas" src="https://via.placeholder.com/15/727200/000000?text=+"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
@@ -18173,7 +18174,7 @@ Pokémon in Exalted
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Goldeen" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/118.png"/></td>
+<td><img alt="Goldeen" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/118.png"/></td>
 <td><img alt="19 vitórias, 0 empates, 81 derrotas" src="https://via.placeholder.com/15/CECE00/000000?text=+"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -18327,7 +18328,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Seaking" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/119.png"/></td>
+<td><img alt="Seaking" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/119.png"/></td>
 <td><img alt="93 vitórias, 0 empates, 7 derrotas" src="https://via.placeholder.com/15/111100/000000?text=+"/></td>
 <td><img alt="68 vitórias, 0 empates, 32 derrotas" src="https://via.placeholder.com/15/515100/000000?text=+"/></td>
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
@@ -18481,7 +18482,7 @@ Pokémon in Exalted
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Staryu" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/120.png"/></td>
+<td><img alt="Staryu" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/120.png"/></td>
 <td><img alt="13 vitórias, 0 empates, 87 derrotas" src="https://via.placeholder.com/15/DDDD00/000000?text=+"/></td>
 <td><img alt="8 vitórias, 0 empates, 92 derrotas" src="https://via.placeholder.com/15/EAEA00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -18635,7 +18636,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Starmie" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/121.png"/></td>
+<td><img alt="Starmie" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/121.png"/></td>
 <td><img alt="92 vitórias, 0 empates, 8 derrotas" src="https://via.placeholder.com/15/141400/000000?text=+"/></td>
 <td><img alt="68 vitórias, 0 empates, 32 derrotas" src="https://via.placeholder.com/15/515100/000000?text=+"/></td>
 <td><img alt="9 vitórias, 0 empates, 91 derrotas" src="https://via.placeholder.com/15/E8E800/000000?text=+"/></td>
@@ -18789,7 +18790,7 @@ Pokémon in Exalted
 <td><img alt="23 vitórias, 0 empates, 77 derrotas" src="https://via.placeholder.com/15/C4C400/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Mr. Mime" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/122.png"/></td>
+<td><img alt="Mr. Mime" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/122.png"/></td>
 <td><img alt="89 vitórias, 0 empates, 11 derrotas" src="https://via.placeholder.com/15/1C1C00/000000?text=+"/></td>
 <td><img alt="63 vitórias, 0 empates, 37 derrotas" src="https://via.placeholder.com/15/5E5E00/000000?text=+"/></td>
 <td><img alt="9 vitórias, 0 empates, 91 derrotas" src="https://via.placeholder.com/15/E8E800/000000?text=+"/></td>
@@ -18943,7 +18944,7 @@ Pokémon in Exalted
 <td><img alt="4 vitórias, 0 empates, 96 derrotas" src="https://via.placeholder.com/15/F4F400/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Scyther" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/123.png"/></td>
+<td><img alt="Scyther" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/123.png"/></td>
 <td><img alt="90 vitórias, 0 empates, 10 derrotas" src="https://via.placeholder.com/15/191900/000000?text=+"/></td>
 <td><img alt="81 vitórias, 0 empates, 19 derrotas" src="https://via.placeholder.com/15/303000/000000?text=+"/></td>
 <td><img alt="25 vitórias, 0 empates, 75 derrotas" src="https://via.placeholder.com/15/BFBF00/000000?text=+"/></td>
@@ -19097,7 +19098,7 @@ Pokémon in Exalted
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Jynx" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/124.png"/></td>
+<td><img alt="Jynx" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/124.png"/></td>
 <td><img alt="88 vitórias, 0 empates, 12 derrotas" src="https://via.placeholder.com/15/1E1E00/000000?text=+"/></td>
 <td><img alt="76 vitórias, 0 empates, 24 derrotas" src="https://via.placeholder.com/15/3D3D00/000000?text=+"/></td>
 <td><img alt="40 vitórias, 0 empates, 60 derrotas" src="https://via.placeholder.com/15/999900/000000?text=+"/></td>
@@ -19251,7 +19252,7 @@ Pokémon in Exalted
 <td><img alt="25 vitórias, 0 empates, 75 derrotas" src="https://via.placeholder.com/15/BFBF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Electabuzz" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/125.png"/></td>
+<td><img alt="Electabuzz" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/125.png"/></td>
 <td><img alt="98 vitórias, 0 empates, 2 derrotas" src="https://via.placeholder.com/15/050500/000000?text=+"/></td>
 <td><img alt="85 vitórias, 0 empates, 15 derrotas" src="https://via.placeholder.com/15/262600/000000?text=+"/></td>
 <td><img alt="35 vitórias, 0 empates, 65 derrotas" src="https://via.placeholder.com/15/A5A500/000000?text=+"/></td>
@@ -19405,7 +19406,7 @@ Pokémon in Exalted
 <td><img alt="9 vitórias, 0 empates, 91 derrotas" src="https://via.placeholder.com/15/E8E800/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Magmar" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/126.png"/></td>
+<td><img alt="Magmar" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/126.png"/></td>
 <td><img alt="92 vitórias, 0 empates, 8 derrotas" src="https://via.placeholder.com/15/141400/000000?text=+"/></td>
 <td><img alt="69 vitórias, 0 empates, 31 derrotas" src="https://via.placeholder.com/15/4F4F00/000000?text=+"/></td>
 <td><img alt="13 vitórias, 0 empates, 87 derrotas" src="https://via.placeholder.com/15/DDDD00/000000?text=+"/></td>
@@ -19559,7 +19560,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Pinsir" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/127.png"/></td>
+<td><img alt="Pinsir" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/127.png"/></td>
 <td><img alt="93 vitórias, 0 empates, 7 derrotas" src="https://via.placeholder.com/15/111100/000000?text=+"/></td>
 <td><img alt="74 vitórias, 0 empates, 26 derrotas" src="https://via.placeholder.com/15/424200/000000?text=+"/></td>
 <td><img alt="12 vitórias, 0 empates, 88 derrotas" src="https://via.placeholder.com/15/E0E000/000000?text=+"/></td>
@@ -19713,7 +19714,7 @@ Pokémon in Exalted
 <td><img alt="12 vitórias, 0 empates, 88 derrotas" src="https://via.placeholder.com/15/E0E000/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Tauros" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/128.png"/></td>
+<td><img alt="Tauros" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/128.png"/></td>
 <td><img alt="85 vitórias, 0 empates, 15 derrotas" src="https://via.placeholder.com/15/262600/000000?text=+"/></td>
 <td><img alt="66 vitórias, 0 empates, 34 derrotas" src="https://via.placeholder.com/15/565600/000000?text=+"/></td>
 <td><img alt="20 vitórias, 0 empates, 80 derrotas" src="https://via.placeholder.com/15/CCCC00/000000?text=+"/></td>
@@ -19867,7 +19868,7 @@ Pokémon in Exalted
 <td><img alt="25 vitórias, 0 empates, 75 derrotas" src="https://via.placeholder.com/15/BFBF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Magikarp" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/129.png"/></td>
+<td><img alt="Magikarp" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/129.png"/></td>
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -20021,7 +20022,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Gyarados" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/130.png"/></td>
+<td><img alt="Gyarados" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/130.png"/></td>
 <td><img alt="95 vitórias, 0 empates, 5 derrotas" src="https://via.placeholder.com/15/0C0C00/000000?text=+"/></td>
 <td><img alt="84 vitórias, 0 empates, 16 derrotas" src="https://via.placeholder.com/15/282800/000000?text=+"/></td>
 <td><img alt="21 vitórias, 0 empates, 79 derrotas" src="https://via.placeholder.com/15/C9C900/000000?text=+"/></td>
@@ -20175,7 +20176,7 @@ Pokémon in Exalted
 <td><img alt="19 vitórias, 0 empates, 81 derrotas" src="https://via.placeholder.com/15/CECE00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Lapras" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/131.png"/></td>
+<td><img alt="Lapras" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/131.png"/></td>
 <td><img alt="72 vitórias, 0 empates, 28 derrotas" src="https://via.placeholder.com/15/474700/000000?text=+"/></td>
 <td><img alt="50 vitórias, 0 empates, 50 derrotas" src="https://via.placeholder.com/15/7F7F00/000000?text=+"/></td>
 <td><img alt="21 vitórias, 0 empates, 79 derrotas" src="https://via.placeholder.com/15/C9C900/000000?text=+"/></td>
@@ -20329,7 +20330,7 @@ Pokémon in Exalted
 <td><img alt="24 vitórias, 0 empates, 76 derrotas" src="https://via.placeholder.com/15/C1C100/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Ditto" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/132.png"/></td>
+<td><img alt="Ditto" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/132.png"/></td>
 <td><img alt="33 vitórias, 0 empates, 67 derrotas" src="https://via.placeholder.com/15/AAAA00/000000?text=+"/></td>
 <td><img alt="10 vitórias, 0 empates, 90 derrotas" src="https://via.placeholder.com/15/E5E500/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -20483,7 +20484,7 @@ Pokémon in Exalted
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Eevee" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/133.png"/></td>
+<td><img alt="Eevee" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/133.png"/></td>
 <td><img alt="46 vitórias, 0 empates, 54 derrotas" src="https://via.placeholder.com/15/898900/000000?text=+"/></td>
 <td><img alt="19 vitórias, 0 empates, 81 derrotas" src="https://via.placeholder.com/15/CECE00/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -20637,7 +20638,7 @@ Pokémon in Exalted
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Vaporeon" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/134.png"/></td>
+<td><img alt="Vaporeon" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/134.png"/></td>
 <td><img alt="80 vitórias, 0 empates, 20 derrotas" src="https://via.placeholder.com/15/333300/000000?text=+"/></td>
 <td><img alt="51 vitórias, 0 empates, 49 derrotas" src="https://via.placeholder.com/15/7C7C00/000000?text=+"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
@@ -20791,7 +20792,7 @@ Pokémon in Exalted
 <td><img alt="6 vitórias, 0 empates, 94 derrotas" src="https://via.placeholder.com/15/EFEF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Jolteon" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/135.png"/></td>
+<td><img alt="Jolteon" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/135.png"/></td>
 <td><img alt="92 vitórias, 0 empates, 8 derrotas" src="https://via.placeholder.com/15/141400/000000?text=+"/></td>
 <td><img alt="81 vitórias, 0 empates, 19 derrotas" src="https://via.placeholder.com/15/303000/000000?text=+"/></td>
 <td><img alt="31 vitórias, 0 empates, 69 derrotas" src="https://via.placeholder.com/15/AFAF00/000000?text=+"/></td>
@@ -20945,7 +20946,7 @@ Pokémon in Exalted
 <td><img alt="27 vitórias, 0 empates, 73 derrotas" src="https://via.placeholder.com/15/BABA00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Flareon" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/136.png"/></td>
+<td><img alt="Flareon" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/136.png"/></td>
 <td><img alt="88 vitórias, 0 empates, 12 derrotas" src="https://via.placeholder.com/15/1E1E00/000000?text=+"/></td>
 <td><img alt="67 vitórias, 0 empates, 33 derrotas" src="https://via.placeholder.com/15/545400/000000?text=+"/></td>
 <td><img alt="16 vitórias, 0 empates, 84 derrotas" src="https://via.placeholder.com/15/D6D600/000000?text=+"/></td>
@@ -21099,7 +21100,7 @@ Pokémon in Exalted
 <td><img alt="12 vitórias, 0 empates, 88 derrotas" src="https://via.placeholder.com/15/E0E000/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Porygon" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/137.png"/></td>
+<td><img alt="Porygon" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/137.png"/></td>
 <td><img alt="71 vitórias, 0 empates, 29 derrotas" src="https://via.placeholder.com/15/494900/000000?text=+"/></td>
 <td><img alt="42 vitórias, 0 empates, 58 derrotas" src="https://via.placeholder.com/15/939300/000000?text=+"/></td>
 <td><img alt="3 vitórias, 0 empates, 97 derrotas" src="https://via.placeholder.com/15/F7F700/000000?text=+"/></td>
@@ -21253,7 +21254,7 @@ Pokémon in Exalted
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Omanyte" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/138.png"/></td>
+<td><img alt="Omanyte" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/138.png"/></td>
 <td><img alt="33 vitórias, 0 empates, 67 derrotas" src="https://via.placeholder.com/15/AAAA00/000000?text=+"/></td>
 <td><img alt="13 vitórias, 0 empates, 87 derrotas" src="https://via.placeholder.com/15/DDDD00/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -21407,7 +21408,7 @@ Pokémon in Exalted
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Omastar" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/139.png"/></td>
+<td><img alt="Omastar" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/139.png"/></td>
 <td><img alt="55 vitórias, 0 empates, 45 derrotas" src="https://via.placeholder.com/15/727200/000000?text=+"/></td>
 <td><img alt="32 vitórias, 0 empates, 68 derrotas" src="https://via.placeholder.com/15/ADAD00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -21561,7 +21562,7 @@ Pokémon in Exalted
 <td><img alt="2 vitórias, 0 empates, 98 derrotas" src="https://via.placeholder.com/15/F9F900/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Kabuto" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/140.png"/></td>
+<td><img alt="Kabuto" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/140.png"/></td>
 <td><img alt="44 vitórias, 0 empates, 56 derrotas" src="https://via.placeholder.com/15/8E8E00/000000?text=+"/></td>
 <td><img alt="14 vitórias, 0 empates, 86 derrotas" src="https://via.placeholder.com/15/DBDB00/000000?text=+"/></td>
 <td><img alt="0 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/FFFF00/000000?text=+"/></td>
@@ -21715,7 +21716,7 @@ Pokémon in Exalted
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Kabutops" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/141.png"/></td>
+<td><img alt="Kabutops" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/141.png"/></td>
 <td><img alt="70 vitórias, 0 empates, 30 derrotas" src="https://via.placeholder.com/15/4C4C00/000000?text=+"/></td>
 <td><img alt="47 vitórias, 0 empates, 53 derrotas" src="https://via.placeholder.com/15/878700/000000?text=+"/></td>
 <td><img alt="5 vitórias, 0 empates, 95 derrotas" src="https://via.placeholder.com/15/F2F200/000000?text=+"/></td>
@@ -21869,7 +21870,7 @@ Pokémon in Exalted
 <td><img alt="4 vitórias, 0 empates, 96 derrotas" src="https://via.placeholder.com/15/F4F400/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Aerodactyl" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/142.png"/></td>
+<td><img alt="Aerodactyl" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/142.png"/></td>
 <td><img alt="98 vitórias, 0 empates, 2 derrotas" src="https://via.placeholder.com/15/050500/000000?text=+"/></td>
 <td><img alt="83 vitórias, 0 empates, 17 derrotas" src="https://via.placeholder.com/15/2B2B00/000000?text=+"/></td>
 <td><img alt="45 vitórias, 0 empates, 55 derrotas" src="https://via.placeholder.com/15/8C8C00/000000?text=+"/></td>
@@ -22023,7 +22024,7 @@ Pokémon in Exalted
 <td><img alt="36 vitórias, 0 empates, 64 derrotas" src="https://via.placeholder.com/15/A3A300/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Snorlax" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/143.png"/></td>
+<td><img alt="Snorlax" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/143.png"/></td>
 <td><img alt="88 vitórias, 0 empates, 12 derrotas" src="https://via.placeholder.com/15/1E1E00/000000?text=+"/></td>
 <td><img alt="73 vitórias, 0 empates, 27 derrotas" src="https://via.placeholder.com/15/444400/000000?text=+"/></td>
 <td><img alt="38 vitórias, 0 empates, 62 derrotas" src="https://via.placeholder.com/15/9E9E00/000000?text=+"/></td>
@@ -22177,7 +22178,7 @@ Pokémon in Exalted
 <td><img alt="33 vitórias, 0 empates, 67 derrotas" src="https://via.placeholder.com/15/AAAA00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Articuno" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/144.png"/></td>
+<td><img alt="Articuno" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/144.png"/></td>
 <td><img alt="98 vitórias, 0 empates, 2 derrotas" src="https://via.placeholder.com/15/050500/000000?text=+"/></td>
 <td><img alt="97 vitórias, 0 empates, 3 derrotas" src="https://via.placeholder.com/15/070700/000000?text=+"/></td>
 <td><img alt="51 vitórias, 0 empates, 49 derrotas" src="https://via.placeholder.com/15/7C7C00/000000?text=+"/></td>
@@ -22331,7 +22332,7 @@ Pokémon in Exalted
 <td><img alt="34 vitórias, 0 empates, 66 derrotas" src="https://via.placeholder.com/15/A8A800/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Zapdos" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/145.png"/></td>
+<td><img alt="Zapdos" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/145.png"/></td>
 <td><img alt="100 vitórias, 0 empates, 0 derrotas" src="https://via.placeholder.com/15/000000/000000?text=+"/></td>
 <td><img alt="96 vitórias, 0 empates, 4 derrotas" src="https://via.placeholder.com/15/0A0A00/000000?text=+"/></td>
 <td><img alt="56 vitórias, 0 empates, 44 derrotas" src="https://via.placeholder.com/15/707000/000000?text=+"/></td>
@@ -22485,7 +22486,7 @@ Pokémon in Exalted
 <td><img alt="49 vitórias, 0 empates, 51 derrotas" src="https://via.placeholder.com/15/828200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Moltres" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/146.png"/></td>
+<td><img alt="Moltres" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/146.png"/></td>
 <td><img alt="98 vitórias, 0 empates, 2 derrotas" src="https://via.placeholder.com/15/050500/000000?text=+"/></td>
 <td><img alt="85 vitórias, 0 empates, 15 derrotas" src="https://via.placeholder.com/15/262600/000000?text=+"/></td>
 <td><img alt="35 vitórias, 0 empates, 65 derrotas" src="https://via.placeholder.com/15/A5A500/000000?text=+"/></td>
@@ -22639,7 +22640,7 @@ Pokémon in Exalted
 <td><img alt="34 vitórias, 0 empates, 66 derrotas" src="https://via.placeholder.com/15/A8A800/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Dratini" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/147.png"/></td>
+<td><img alt="Dratini" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/147.png"/></td>
 <td><img alt="57 vitórias, 0 empates, 43 derrotas" src="https://via.placeholder.com/15/6D6D00/000000?text=+"/></td>
 <td><img alt="28 vitórias, 0 empates, 72 derrotas" src="https://via.placeholder.com/15/B7B700/000000?text=+"/></td>
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
@@ -22793,7 +22794,7 @@ Pokémon in Exalted
 <td><img alt="1 vitórias, 0 empates, 99 derrotas" src="https://via.placeholder.com/15/FCFC00/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Dragonair" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/148.png"/></td>
+<td><img alt="Dragonair" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/148.png"/></td>
 <td><img alt="94 vitórias, 0 empates, 6 derrotas" src="https://via.placeholder.com/15/0F0F00/000000?text=+"/></td>
 <td><img alt="64 vitórias, 0 empates, 36 derrotas" src="https://via.placeholder.com/15/5B5B00/000000?text=+"/></td>
 <td><img alt="15 vitórias, 0 empates, 85 derrotas" src="https://via.placeholder.com/15/D8D800/000000?text=+"/></td>
@@ -22947,7 +22948,7 @@ Pokémon in Exalted
 <td><img alt="12 vitórias, 0 empates, 88 derrotas" src="https://via.placeholder.com/15/E0E000/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Dragonite" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/149.png"/></td>
+<td><img alt="Dragonite" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/149.png"/></td>
 <td><img alt="96 vitórias, 0 empates, 4 derrotas" src="https://via.placeholder.com/15/0A0A00/000000?text=+"/></td>
 <td><img alt="90 vitórias, 0 empates, 10 derrotas" src="https://via.placeholder.com/15/191900/000000?text=+"/></td>
 <td><img alt="42 vitórias, 0 empates, 58 derrotas" src="https://via.placeholder.com/15/939300/000000?text=+"/></td>
@@ -23101,7 +23102,7 @@ Pokémon in Exalted
 <td><img alt="37 vitórias, 0 empates, 63 derrotas" src="https://via.placeholder.com/15/A0A000/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Mewtwo" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/150.png"/></td>
+<td><img alt="Mewtwo" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/150.png"/></td>
 <td><img alt="97 vitórias, 0 empates, 3 derrotas" src="https://via.placeholder.com/15/070700/000000?text=+"/></td>
 <td><img alt="96 vitórias, 0 empates, 4 derrotas" src="https://via.placeholder.com/15/0A0A00/000000?text=+"/></td>
 <td><img alt="56 vitórias, 0 empates, 44 derrotas" src="https://via.placeholder.com/15/707000/000000?text=+"/></td>
@@ -23255,7 +23256,7 @@ Pokémon in Exalted
 <td><img alt="43 vitórias, 0 empates, 100 derrotas" src="https://via.placeholder.com/15/B2B200/000000?text=+"/></td>
 </tr>
 <tr>
-<td><img alt="Mew" src="https://github.com/thiagoharry/pokemon-exalted/blob/main/images/151.png"/></td>
+<td><img alt="Mew" src="https://raw.githubusercontent.com/thiagoharry/pokemon-exalted/main/images/151.png"/></td>
 <td><img alt="99 vitórias, 0 empates, 1 derrotas" src="https://via.placeholder.com/15/020200/000000?text=+"/></td>
 <td><img alt="90 vitórias, 0 empates, 10 derrotas" src="https://via.placeholder.com/15/191900/000000?text=+"/></td>
 <td><img alt="56 vitórias, 0 empates, 44 derrotas" src="https://via.placeholder.com/15/707000/000000?text=+"/></td>
