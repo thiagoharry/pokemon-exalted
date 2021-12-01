@@ -14,7 +14,7 @@ passados como argumento.
 
 O recuso de deixar a IA jogar contra ela mesma foi usada para gerar a
 página seguinte que mostra quão bem cada Pokémon se sai lutando contra
-outros e gerou uma tier list: XXX.
+outros e gerou uma tier list: [[https://thiagoharry.github.io/pokemon-exalted/]](https://thiagoharry.github.io/pokemon-exalted/).
 
 Esta página descreve o que foi feito na adaptação.
 
