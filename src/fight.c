@@ -2,9 +2,16 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
-#if defined(__linux__)
+#if defined(__linux__) || defined(__EMSCRIPTEN__)
 #include <sys/time.h>
 #include <sys/random.h>
+#endif
+#if defined(__EMSCRIPTEN__)
+#include <emscripten.h>
+#endif
+#if defined(_WIN32)
+#include <windows.h>
+#include <bcrypt.h>
 #endif
 #include "random.h"
 
@@ -9182,13 +9189,13 @@ void clash_attack(struct pokemon *p1, struct pokemon *p2){
     p2 -> action = WITHERING_ATTACK;
     switch(GET_ATTACK_TYPE(p1, p2)){
     case SPECIAL:
-      strcpy(move1, "Ataque Especial");
+      strcpy(move2, "Ataque Especial");
       break;
     case PHYSICAL:
-      strcpy(move1, "Ataque Físico");
+      strcpy(move2, "Ataque Físico");
       break;
     default:
-      strcpy(move1, "Ataque Mental");
+      strcpy(move2, "Ataque Mental");
       break;
     }
   }
@@ -10485,6 +10492,8 @@ void choose_action(struct pokemon *p1, struct pokemon *p2){
       rating[ANGER] = 0;
   }
   if(p1 -> enabled_moves[TRANSFORM]){
+    if(!strcmp(p1 -> name, "Ditto") && strcmp(p2 -> name, "Ditto"))
+      rating[TRANSFORM] = 0;
     int sum = (p2 -> strength > p1 -> strength) +
       (p2 -> dexterity > p1 -> dexterity) +
       (p2 -> stamina > p1 -> stamina) + (p2 -> charisma > p1 -> charisma) +
@@ -10624,7 +10633,33 @@ int main(int argc, char **argv){
     uint64_t buffer[4];
 #if defined(__linux__)
     getrandom(buffer, 4 * 8, 0);
-#else
+#elif defined(__EMSCRIPTEN__)
+  for(i = 0; i < 4; i ++){
+    buffer[i] = EM_ASM_INT({
+	var array = new Uint32Array(1);
+	window.crypto.getRandomValues(array);
+	return array[0];
+      });
+    buffer[i] = buffer[i] << 32;
+    buffer[i] += EM_ASM_INT({
+	var array = new Uint32Array(1);
+	window.crypto.getRandomValues(array);
+	return array[0];
+      });
+  }
+#elif defined(_WIN32)
+  NTSTATUS ret;
+  int count = 0;
+  do{
+    ret = BCryptGenRandom(NULL, (unsigned char *) &buffer, 8 * 4,
+                          BCRYPT_USE_SYSTEM_PREFERRED_RNG);
+    count ++;
+  } while(ret != 0 && count < 16);
+  if(ret != 0){
+    fprintf(stderr, "ERROR: I could not initialize the RNG.\n");
+    exit(1);
+  }
+#else // BSD?
     arc4random_buf(buffer, 4 * 8);
 #endif
     RNG = _Wcreate_rng(malloc, 4, buffer);
