@@ -64,7 +64,7 @@ A lógica utilizada para a tradução foi:
   chance de captura de 3% ou menos é Percepção 5, captura de 6% ou
   menos é Percepção 4, captura de 12% ou menso é Percepção 3, captura
   de 25% ou menos é Percepção 2, captura de 50% ou menos é Percepção
-  1. Acima disso a Percepção é 0. Pokémons que não podem ser
+  nível 1. Acima disso a Percepção é 0. Pokémons que não podem ser
   capturados na grama tem Percepção 5. Eu levo em conta apenas jogos
   da geração na qual o Pokémon apareceu pela primeira vez, não nas
   gerações posteriores.
